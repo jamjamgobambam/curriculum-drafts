@@ -9,7 +9,6 @@
 
 ## 🖼️ Design
 
-* [Backwards Design](design/backwards-design.md)
 * [\[PT 1 Title\] Blueprint](design/pt-1-title-blueprint.md)
 * [\[PT 2 Title\] Blueprint](design/pt-2-title-blueprint.md)
 
