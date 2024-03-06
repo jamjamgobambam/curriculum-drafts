@@ -109,10 +109,6 @@ The purpose of our computer vision module is to empower high school students, ir
 
 ## Dependencies
 
-{% hint style="info" %}
-To do this work, what else must be true? What does this project rely on? Who else needs to be involved?
-{% endhint %}
-
 
 
 ## Timeline and Milestones
@@ -140,10 +136,6 @@ _**Total Dev Hours:**_ 790 hours
 * **Collaboration with Universities or Companies:** Partnerships could enhance the curriculum's quality and applicability, but they are not required for the project's initial success.
 
 ## Key Questions
-
-{% hint style="info" %}
-What additional questions do we need to answer to figure out what to develop?
-{% endhint %}
 
 
 

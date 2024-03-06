@@ -1,18 +1,6 @@
 # Purpose and Objectives
 
-{% hint style="info" %}
-Refer to the [Purpose and Objectives page](https://app.gitbook.com/s/qRQCb3peZ9sYMzD73AKg/course-structure/purpose-and-objectives) for a template and guidance for this.
-{% endhint %}
-
 ## Purpose
-
-{% hint style="info" %}
-Write a short description of the purpose or vision for the unit or course. It should include:
-
-* What is it?
-* Who is it for?
-* Why are we offering it?
-{% endhint %}
 
 
 
