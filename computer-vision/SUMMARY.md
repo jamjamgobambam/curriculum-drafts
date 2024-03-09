@@ -1,6 +1,6 @@
 # Table of contents
 
-## ? ? Overview
+## 👋 ? ? Overview
 
 * [Overview](README.md)
 * [Product Spec](overview/product-spec.md)
@@ -12,4 +12,4 @@
 * [Another Page](lesson-plans/another-page.md)
 * [Page 1](lesson-plans/page-1.md)
 * [Test Lesson 1](lesson-plans/new-lesson.md)
-* [New Lesson](lesson-plans/lesson-1.md)
+* [Lesson 1](lesson-plans/lesson-1.md)
