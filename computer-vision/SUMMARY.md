@@ -10,3 +10,4 @@
 ## Lesson Plans
 
 * [Page 2](lesson-plans/page-2.md)
+* [lesson-1](lesson-plans/lesson-1.md)
