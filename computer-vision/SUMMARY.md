@@ -1,17 +1,1 @@
-# Table of contents
-
-## ? ? ? Overview
-
-* [Overview](README.md)
-* [Product Spec](overview/product-spec.md)
-* [Purpose and Objectives](overview/purpose-and-objectives.md)
-* [Resources](overview/resources.md)
-
-## Lesson Plans
-
-* [Another Page](lesson-plans/another-page.md)
-* [Page 1](lesson-plans/page-1.md)
-* [Test Lesson 1](lesson-plans/new-lesson.md)
-* [Lesson 1](lesson-plans/lesson-1.md)
-* [lesson-3](lesson-plans/lesson-3.md)
-* [lesson-5](lesson-plans/lesson-5.md)
+{"name":"SUMMARY.md","path":"computer-vision/SUMMARY.md","sha":"0fcedbb661a6f2b046bc223345aa70dab532e7f9","size":470,"url":"https://api.github.com/repos/jamjamgobambam/curriculum-drafts/contents/computer-vision/SUMMARY.md?ref=main","html_url":"https://github.com/jamjamgobambam/curriculum-drafts/blob/main/computer-vision/SUMMARY.md","git_url":"https://api.github.com/repos/jamjamgobambam/curriculum-drafts/git/blobs/0fcedbb661a6f2b046bc223345aa70dab532e7f9","download_url":"https://raw.githubusercontent.com/jamjamgobambam/curriculum-drafts/main/computer-vision/SUMMARY.md","type":"file","content":"IyBUYWJsZSBvZiBjb250ZW50cwoKIyMgPyA/ID8gT3ZlcnZpZXcKCiogW092\nZXJ2aWV3XShSRUFETUUubWQpCiogW1Byb2R1Y3QgU3BlY10ob3ZlcnZpZXcv\ncHJvZHVjdC1zcGVjLm1kKQoqIFtQdXJwb3NlIGFuZCBPYmplY3RpdmVzXShv\ndmVydmlldy9wdXJwb3NlLWFuZC1vYmplY3RpdmVzLm1kKQoqIFtSZXNvdXJj\nZXNdKG92ZXJ2aWV3L3Jlc291cmNlcy5tZCkKCiMjIExlc3NvbiBQbGFucwoK\nKiBbQW5vdGhlciBQYWdlXShsZXNzb24tcGxhbnMvYW5vdGhlci1wYWdlLm1k\nKQoqIFtQYWdlIDFdKGxlc3Nvbi1wbGFucy9wYWdlLTEubWQpCiogW1Rlc3Qg\nTGVzc29uIDFdKGxlc3Nvbi1wbGFucy9uZXctbGVzc29uLm1kKQoqIFtMZXNz\nb24gMV0obGVzc29uLXBsYW5zL2xlc3Nvbi0xLm1kKQoqIFtsZXNzb24tM10o\nbGVzc29uLXBsYW5zL2xlc3Nvbi0zLm1kKQoqIFtsZXNzb24tNV0obGVzc29u\nLXBsYW5zL2xlc3Nvbi01Lm1kKQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/jamjamgobambam/curriculum-drafts/contents/computer-vision/SUMMARY.md?ref=main","git":"https://api.github.com/repos/jamjamgobambam/curriculum-drafts/git/blobs/0fcedbb661a6f2b046bc223345aa70dab532e7f9","html":"https://github.com/jamjamgobambam/curriculum-drafts/blob/main/computer-vision/SUMMARY.md"}}* [lesson-8](lesson-plans/lesson-8.md)
