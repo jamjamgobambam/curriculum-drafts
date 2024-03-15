@@ -2,7 +2,7 @@
 description: 🧑🏽‍🎓 Grades 9-12  |  📅 15 days
 ---
 
-# README
+# What is Computer Vision?
 
 ## **Subject / Topic Areas**
 
@@ -10,9 +10,11 @@ list the overarching subject or topic areas
 
 ## **Key Vocabulary**
 
-<table><thead><tr><th width="290">Term</th><th>Definition</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="326">Term</th><th>Definition</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 ## **Prerequisite Knowledge**
+
+
 
 ## **Brief summary of unit**
 
