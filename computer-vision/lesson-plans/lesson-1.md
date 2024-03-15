@@ -8,11 +8,7 @@ Today marks the beginning of our explorations with computer vision. We’re goin
 
 ***
 
-![](https://jamjamgobambam.github.io/curriculum-drafts/slide-images/computer-vision/1iRjA-LRoorYZdqIshLhOkoG-hlvcPEJScBZAz4ptjDE/slide\_1.png)
-
-Warm Up
-
-***
+### Warm Up
 
 ![](https://jamjamgobambam.github.io/curriculum-drafts/slide-images/computer-vision/1iRjA-LRoorYZdqIshLhOkoG-hlvcPEJScBZAz4ptjDE/slide\_2.png)
 
@@ -38,11 +34,7 @@ Warm Up
 
 ***
 
-![](https://jamjamgobambam.github.io/curriculum-drafts/slide-images/computer-vision/1iRjA-LRoorYZdqIshLhOkoG-hlvcPEJScBZAz4ptjDE/slide\_5.png)
-
-Activity
-
-***
+### Activity
 
 ![](https://jamjamgobambam.github.io/curriculum-drafts/slide-images/computer-vision/1iRjA-LRoorYZdqIshLhOkoG-hlvcPEJScBZAz4ptjDE/slide\_6.png)
 
@@ -296,11 +288,7 @@ Teaching Tip In this scene, students will explore the two views in order to find
 
 🎙️ **Say:** You did it, detectives! Pixel the cat has been safely returned to her owner and can continue her brilliant career in cat food commercials.
 
-***
-
-![](https://jamjamgobambam.github.io/curriculum-drafts/slide-images/computer-vision/1iRjA-LRoorYZdqIshLhOkoG-hlvcPEJScBZAz4ptjDE/slide\_32.png)
-
-***
+### Wrap Up
 
 ![](https://jamjamgobambam.github.io/curriculum-drafts/slide-images/computer-vision/1iRjA-LRoorYZdqIshLhOkoG-hlvcPEJScBZAz4ptjDE/slide\_33.png)
 
