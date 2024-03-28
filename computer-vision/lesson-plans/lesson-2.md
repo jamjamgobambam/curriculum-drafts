@@ -1,5 +1,25 @@
 # Lesson 2
 
+## Overview (Teacher)
+
+**the question of the day**
+
+Summary of what is in this lesson (2-3 sentences). How does this fit into the big picture \[optional] (2-3 sentences)?
+
+## Overview (Students)
+
+A student-friendly version of the text above. Speak directly to the students.
+
+{% tabs %}
+{% tab title="Slides" %}
+(embed the slide deck for the lesson here)
+{% endtab %}
+
+{% tab title="Untitled" %}
+
+{% endtab %}
+{% endtabs %}
+
 > 🎙️ **Say:** Yesterday we saw a range of applications for computer vision and discussed ways that this technology impacts us in our own lives. Over the next few lessons, we will look more closely at some specific examples of computer vision applications. We will also look at this applications from the different perspectives shown on the slide. Today, we will look at one of the companies mentioned in the video yesterday, Farmwise, which builds automated weeding technology. While we watch the video, there are some guiding questions to consider that lead up to the larger question of “Who benefits from using this technology?”
 
 🎥 **Video:** Watch the videos about Farmwise together as a class, and have students think about the guiding questions listed.
