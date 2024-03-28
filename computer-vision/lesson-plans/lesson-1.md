@@ -1,6 +1,6 @@
 # lesson-1
 
-🎙️ > **Say:** Today marks the beginning of our explorations with computer vision. We’re going to peel back the curtain and see how computers use images & video to “see” the world around them, turning pixels into patterns, and patterns into predictions. It’s a field of study that is ongoing, current, and with many applications now and in the near future that promise to change the way that society looks and functions.
+> 🎙️ **Say:** Today marks the beginning of our explorations with computer vision. We’re going to peel back the curtain and see how computers use images & video to “see” the world around them, turning pixels into patterns, and patterns into predictions. It’s a field of study that is ongoing, current, and with many applications now and in the near future that promise to change the way that society looks and functions.
 
 
 
@@ -18,11 +18,11 @@ Consider having students talk to a shoulder partner for a minute or two to discu
 
 **Discussion Goal:** If the algorithm that students came up with in the previous slide was too simplistic, it might not account for these other variations of X. However, it is important to point out that through the use of computer vision, the goal is to train a computer to recognize an “X” in new and novel implementations.  
 
-🎙️ > **Say:** Throughout this module we will be learning how computer scientists are developing sophisticated computer vision algorithms utilizing AI and data. By training these models with loads of data, the computer itself begins to write and tweak its own algorithms to help it decode and understand what an “X” might be. Even if it sees a version that it has never seen before, if the training was thorough enough, it should be able to recognize the letter. That is one of the goals of computer vision: to train computers to see and interpret the world around them just like we are able to do as human beings.
+> 🎙️ **Say:** Throughout this module we will be learning how computer scientists are developing sophisticated computer vision algorithms utilizing AI and data. By training these models with loads of data, the computer itself begins to write and tweak its own algorithms to help it decode and understand what an “X” might be. Even if it sees a version that it has never seen before, if the training was thorough enough, it should be able to recognize the letter. That is one of the goals of computer vision: to train computers to see and interpret the world around them just like we are able to do as human beings.
 
 
 
-🎙️ > **Say:** Let’s take a look at an introductory video that details the basics of what computer vision is, how it differs from traditional programming / algorithm development, and what some uses might be. 
+> 🎙️ **Say:** Let’s take a look at an introductory video that details the basics of what computer vision is, how it differs from traditional programming / algorithm development, and what some uses might be. 
 
 🎥 **Video:** How AI Works: Computer Vision  (6 min)
 
@@ -40,15 +40,15 @@ Consider having students talk to a shoulder partner for a minute or two to discu
 
 
 
-🎙️ > **Say:** Read the Lesson Objectives 
+> 🎙️ **Say:** Read the Lesson Objectives 
 
 
 
 
 
-🎙️ > **Say:** The Lesson Objectives.
+> 🎙️ **Say:** The Lesson Objectives.
 
-🎙️ > **Say:** At the end of class today, we will revisit the objectives and the question of the day in order to assess how far we’ve come in our understanding of computer vision.
+> 🎙️ **Say:** At the end of class today, we will revisit the objectives and the question of the day in order to assess how far we’ve come in our understanding of computer vision.
 
 
 📄 **Distribute:** “The Search for Pixel” Activity Guide
@@ -62,11 +62,11 @@ In addition to the Activity Guide, there is a teacher resource that will walk yo
 
 
 
-🎙️ > **Say:** In order to learn a bit more about computer vision, you are all going to assume the roles of digital detectives today. You see, Pixel the cat, world famous for her thirty second advertisement for YumYumFishy Cat Bites, has gone missing! You will use an interactive Google Slide in order to visit different locations around the city, searching for information about what happened to the cat, and aided by use of computer vision techniques to reveal these clues. Have your Activity Guide and “The Search for Pixel” slide show on your computers. 
+> 🎙️ **Say:** In order to learn a bit more about computer vision, you are all going to assume the roles of digital detectives today. You see, Pixel the cat, world famous for her thirty second advertisement for YumYumFishy Cat Bites, has gone missing! You will use an interactive Google Slide in order to visit different locations around the city, searching for information about what happened to the cat, and aided by use of computer vision techniques to reveal these clues. Have your Activity Guide and “The Search for Pixel” slide show on your computers. 
 
 
 
-🎙️ > **Say:** Have your Activity Guide and “The Search for Pixel” slideshow ready to go on your group’s computers. 
+> 🎙️ **Say:** Have your Activity Guide and “The Search for Pixel” slideshow ready to go on your group’s computers. 
 
 You will have thirty minutes to get as far as you can through the mystery. There are six rounds– and you should click on them on the main menu screen in order. Don’t try to jump ahead! As you attempt to solve the mystery, you might get stuck. If so, come up and grab one of these Clue Cards– after all, even the best detectives need a little nudge every now and again. There are two clues for each round of the mystery. Use Clue 1 first, and if you need more help, use Clue 2. If you don’t solve the mystery in the time allotted, don’t worry! Everyone will move at their own pace.
 
@@ -96,7 +96,7 @@ Teaching Tip
 It might be useful to set a visible timer for 30 minutes so that students have a frame of reference for how long they have to solve the mystery.
 
 
-🎙️ > **Say:** You did it, detectives! Pixel the cat has been safely returned to her owner and can continue her brilliant career in cat food commercials.
+> 🎙️ **Say:** You did it, detectives! Pixel the cat has been safely returned to her owner and can continue her brilliant career in cat food commercials.
 
 
 
@@ -112,10 +112,10 @@ Assessment Opportunity: Formative Assessment
 It might prove to be an interesting experience to revisit these student responses to this question at the end of the module to see what has changed and why.
 
 
-🎙️ > **Say:** Read the Learning Objectives
+> 🎙️ **Say:** Read the Learning Objectives
 
 
-🎙️ > **Say:** Review Question of the Day
+> 🎙️ **Say:** Review Question of the Day
 
 
 ✏️ **Vocabulary:** Review Key Vocabulary for the day. The specific techniques that were introduced in this mystery activity will be explored more in detail as the module progresses.
