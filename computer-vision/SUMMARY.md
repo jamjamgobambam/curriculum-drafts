@@ -10,3 +10,4 @@
 
 * [Lesson 4](lesson-plans/lesson-4.md)
 * [Lesson 1](lesson-plans/lesson-1.md)
+* [lesson-2](lesson-plans/lesson-2.md)
