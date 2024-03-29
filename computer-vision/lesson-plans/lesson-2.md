@@ -2,9 +2,9 @@
 
 ## Overview (Teacher)
 
-**the question of the day**
+**Question of the Day :** How can we put ourselves in the shoes of our users?
 
-Summary of what is in this lesson (2-3 sentences). How does this fit into the big picture \[optional] (2-3 sentences)?
+This lesson introduces students to the Design Thinking Process focusing on the Empathize step of the process. In this lesson, students brainstorm communities they belong to and learn how to use observations of problems and issues a community is facing to generate questions that would help better understand the needs of members in that community. This lesson also introduces group roles as a way to streamline collaborative tasks.
 
 ## Overview (Students)
 
