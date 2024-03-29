@@ -8,7 +8,7 @@ This lesson introduces students to the Design Thinking Process focusing on the E
 
 ## Overview (Students)
 
-A student-friendly version of the text above. Speak directly to the students.
+A student-friendly version of the text above. Speak directly to the students. Hi
 
 {% tabs %}
 {% tab title="Slides" %}
