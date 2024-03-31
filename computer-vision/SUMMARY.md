@@ -12,3 +12,4 @@
 * [Lesson 2](lesson-plans/lesson-2.md)
 * [Lesson 3](lesson-plans/lesson-3.md)
 * [Lesson 4](lesson-plans/lesson-4.md)
+* [lesson-6](lesson-plans/lesson-6.md)
