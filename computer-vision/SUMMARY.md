@@ -12,9 +12,8 @@
 * [Lesson 2](lesson-plans/lesson-2.md)
 * [Lesson 3](lesson-plans/lesson-3.md)
 * [Lesson 4](lesson-plans/lesson-4.md)
-* [lesson-6](lesson-plans/lesson-6.md)
-* [lesson-7](lesson-plans/lesson-7.md)
-* [lesson-9](lesson-plans/lesson-9.md)
-* [lesson-10](lesson-plans/lesson-10.md)
-* [lesson-14](lesson-plans/lesson-14.md)
-* [lesson-15](lesson-plans/lesson-15.md)
+* [lesson-5](lesson-plans/lesson-5.md)
+
+***
+
+* [Page 1](page-1.md)
