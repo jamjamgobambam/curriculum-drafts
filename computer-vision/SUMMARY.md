@@ -15,3 +15,4 @@
 * [lesson-6](lesson-plans/lesson-6.md)
 * [lesson-7](lesson-plans/lesson-7.md)
 * [lesson-9](lesson-plans/lesson-9.md)
+* [lesson-10](lesson-plans/lesson-10.md)
