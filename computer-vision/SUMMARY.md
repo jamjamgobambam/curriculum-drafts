@@ -17,3 +17,4 @@
 * [lesson-9](lesson-plans/lesson-9.md)
 * [lesson-10](lesson-plans/lesson-10.md)
 * [lesson-14](lesson-plans/lesson-14.md)
+* [lesson-15](lesson-plans/lesson-15.md)
