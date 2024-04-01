@@ -2,60 +2,56 @@
 
 ## Overview (Teacher)
 
-**How can datasets of images help a computer vision application to interpret what it sees?**
+**What are ways that we can visualize our data to gain insight into greatest needs of target community?**
 
-In this lesson, students will move from learning how an image is extracted from an image to how computer vision systems are then able to take that information and process it. They will be introduced to the COCOs and ImageNet image datasets which are used to train computer vision applications. Students will experiment with sample models built from both datasets in order to learn about confidence scores and how they play an important role in determining the accuracy of a model.
+In this lesson, students will begin with an analysis of a computer vision product– the robo-vacuum– in order to learn how using data might lead to product innovations. We will transition into the Defining step of the Design Thinking process, where students will learn some basic ways to visualize and interpret data, which they will use to define unique issues within their target community.
 
 ## Overview (Students)
 
-In this lesson, you will explore how computer vision applications learn to perceive the objects that are extracted from images through algorithms like edge detection. You will explore various image datasets which are used to train computer vision applications. Experimenting with sample models built from image datasets, you will learn about confidence scores and how they play an important role in determining the accuracy of what a computer vision system perceives.
+Taking the research questions that you developed in the previous lesson, you will learn ways to interpret and visualize data in order to get a better idea about what is important to the members of the community on which you have chosen to focus.
 
 
 
 {% tabs %}
 {% tab title="Slides" %}
-{% embed url="https://docs.google.com/presentation/d/1p3n3e1nxMxby7TVJeD4tvCUtIwr67lt3bH7kPH7Spag/edit#slide=id.g26b38d373c3_0_94" %}
+{% embed url="https://docs.google.com/presentation/d/1rbr1mAhKlYsFtl6_4Xlh2LgkOul_j7YJQ8N42pJZ-Go/edit?usp=sharing" %}
 {% endtab %}
 
 {% tab title="Standards" %}
-| CSTA: 3A-AP-16                   | Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>AI4K12 </p><p>3-C-i.9-12 </p> | Compare two real world datasets in terms of the features they comprise and how those features are encoded.                                                                |
-| AI4K12 3-A-iii.3-5               | Train a classification model using machine learning, and then examine the accuracy of the model on new inputs                                                             |
+| CSTA: 2-DA-08     | Collect data using computational tools and transform the data to make it more useful and reliable                               |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| AI4K12 (5-A-iii)  | Evaluate ways that AI system designers can learn about and incorporate the values of their stakeholders into the design process |
+| CSTA: 3B-AP-20    | Use project planning techniques to manage work, as a team member and in the development of complex artifacts.                   |
 {% endtab %}
 
 {% tab title="Objectives" %}
 Students will be able to:
 
-* Evaluate the suitability and characteristics of different datasets
-* Explain the importance of using confidence ratings
-* Explore how databases of processed images might be used within your project designs
+* Explain how data can inform design decisions related to features and functions
+* Create data visualizations to find patterns in data sources
+* Analyze and make inferences about data visualizations
 {% endtab %}
 
 {% tab title="Preparation" %}
-* Print the Classifying and Grouping Images document ahead of time if you will be using the physical version. Students will need access to scissors to cut out the images.
-* Preview the MediaPipe models presented (Object Detection /&#x20;
-* Make sure that students are able to download / unzip the images for the main activity.
+* Students will need access to the data that they gathered from the survey that they created and distributed in the previous lesson. If students don’t have access to data, you may provide them with a pre-created set of survey data.
+* Access to computers and the internet is necessary to download sample dataset
 {% endtab %}
 
 {% tab title="Links" %}
 For the teachers
 
-* [From Pixels to Perception](https://docs.google.com/presentation/d/1p3n3e1nxMxby7TVJeD4tvCUtIwr67lt3bH7kPH7Spag/edit#slide=id.g26b38d373c3\_0\_94)- Slides
-* [Classifying and Grouping Images](https://docs.google.com/presentation/d/1kpCbq5itHPSJILXZYqexTeeA4vYQjj\_fZ4L1YwJzLEA/edit#slide=id.p) - Physical Activity&#x20;
-* [garden\_images.zip](https://drive.google.com/file/d/1ScSCuXN75ltGUZzMKze1\_LTR5PMrM-Ax/view?usp=drive\_link) - Resource
+* [Patterns in the Data](https://docs.google.com/presentation/d/1rbr1mAhKlYsFtl6\_4Xlh2LgkOul\_j7YJQ8N42pJZ-Go/edit?usp=sharing) - Slides
 
 For the students
 
-* [Classifying and Grouping Images](https://docs.google.com/presentation/d/1kpCbq5itHPSJILXZYqexTeeA4vYQjj\_fZ4L1YwJzLEA/edit#slide=id.p) - Physical Activity&#x20;
-* [Classifying and Grouping Images](https://docs.google.com/presentation/d/1n3dBJJI0T26X-56bSOBlL3hjvWTxbxYDYPUsj5Bdb-s/edit#slide=id.p) - Digital Activity
-* [garden\_images.zip](https://drive.google.com/file/d/1ScSCuXN75ltGUZzMKze1\_LTR5PMrM-Ax/view?usp=drive\_link) - Resource
-* Lotus Blossum Brainstorm ([Digital](https://docs.google.com/presentation/d/1PqPXAGgH6sgDSVK9B-Haj2aiprI3FOhag9M1ARfLtv8/edit?usp=sharing) / [Physical](https://drive.google.com/file/d/1gI4dvD77yQL2gr7SAvTIT81BJeN0O-WB/view))- Resource
+* [Sample Dataset](https://docs.google.com/spreadsheets/d/1yMLeTKjwj6\_TmLK\_amHL-RhAQ-rZGq6CGTWyB9e0QBs/edit?usp=sharing)- Resource
+* [Our Data Visualizations ](https://docs.google.com/presentation/d/1uCC3C6kHGxcRothkhhqWr-ucw8mhlYz2MTw-ibCmxmo/edit?usp=sharing)- Activity Guide
+* [From Data to Viz](https://www.data-to-viz.com/) - Outside Resource
+* [Charts in Google Sheets ](https://support.google.com/docs/answer/190718?hl=en)- Outside Resource
 {% endtab %}
 
 {% tab title="Vocabulary" %}
-* Class - the output category of one’s data
-* Confidence score - A percentage that represents a measure of the confidence that a model has in its prediction
+* Data visualization- the process of using visual elements like charts, graphs, or maps to represent data.
 {% endtab %}
 {% endtabs %}
 
