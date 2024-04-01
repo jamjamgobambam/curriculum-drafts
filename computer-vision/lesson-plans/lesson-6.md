@@ -13,7 +13,7 @@ In this lesson, you will begin by exploring that smallest part of all digital im
 
 {% tabs %}
 {% tab title="Slides" %}
-[https://docs.google.com/presentation/d/1o\_Hu17799s0qfpj65EQHCdtxjm1J3SoOc6PEkjVX01g/edit?usp=sharing](https://docs.google.com/presentation/d/1o\_Hu17799s0qfpj65EQHCdtxjm1J3SoOc6PEkjVX01g/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1o_Hu17799s0qfpj65EQHCdtxjm1J3SoOc6PEkjVX01g/edit?usp=sharing" %}
 {% endtab %}
 
 {% tab title="Standards" %}
