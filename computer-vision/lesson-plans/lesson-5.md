@@ -13,7 +13,7 @@ In this lesson, you will create fictional users based on the data visualizations
 
 {% tabs %}
 {% tab title="Slides" %}
-{% embed url="https://docs.google.com/presentation/d/1E8x8qBqTNmqf7TDvvfGydxvVyHF67HkNZaMDTpi3vV4/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1E8x8qBqTNmqf7TDvvfGydxvVyHF67HkNZaMDTpi3vV4/edit?usp=sharing" fullWidth="true" %}
 {% endtab %}
 
 {% tab title="Standards" %}
