@@ -8,49 +8,52 @@ This lesson introduces students to the Design Thinking Process focusing on the E
 
 ## Overview (Students)
 
-
+You will start to think like a designer and begin by thinking about a community you'd like to help with a computer vision application. You will brainstorm questions to ask members of this community to learn more about the issues they face.
 
 
 
 {% tabs %}
 {% tab title="Slides" %}
-{% embed url="https://docs.google.com/presentation/d/1mk85wn2sT6M5R7STRXHGL7q51bG3CZYW5XR5-N5YjEE/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1HoRS5VKrUOX0uqgc7UBJn6uqZeSIrghF4lBmaEiGWL4/edit#slide=id.gca418c6afa_0_1070" %}
 {% endtab %}
 
 {% tab title="Standards" %}
-| CSTA: 3A-AP-16            | Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions. |
-| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CSTA: 3A-AP-13            | Create prototypes that use algorithms to solve computational problems by leveraging prior student knowledge and personal interests.                                        |
-| <p>AI4K12:<br>3-A-iii</p> | Training a model - Use either a supervised or unsupervised learning algorithm to train a model on real world data, then evaluate the results.                              |
+* CSTA: 3A-AP-16: Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions.
+* CSTA: 3B-AP-08 - Describe how artificial intelligence drives many software and physical systems
+* CSTA: 3B-AP-20: Use project planning techniques to manage work, as a team member and in the development of complex artifacts.
+* CSTA: 3A-IC-27: Use tools and methods for collaboration on a project to increase connectivity of people in different cultures and career fields
 {% endtab %}
 
 {% tab title="Objectives" %}
-* Explore how visual data is used within a machine learning algorithm to train and create a model
-* Train, validate, and test basic AI classification systems in computer vision
-* Create and evaluate prototypes that solve problems using computer vision
+Students will be able to …&#x20;
+
+* Identify personally relevant communities&#x20;
+* Develop a plan to gather data from members of a community
+* Use group roles to complete a collaborative task
 {% endtab %}
 
 {% tab title="Preparation" %}
-* Blank white paper will be needed for the warm-up. You can cut it into quarters in advance.
-* Students should have the items needed to train their model (webcam / images / video / microphone, etc.)
-* Verify that students have access to the [Teachable Machine website](http://teachablemachine.withgoogle.com) in order to train their models.
+* Print out the Problem Observations → Research Questions Activity Guides for students
+* Decide on three spaces in the classroom where students can gather for the Wrap Up Debrief
 {% endtab %}
 
 {% tab title="Links" %}
+
+
 For the teachers
 
-* [Model-Making Machine](https://docs.google.com/presentation/d/1mk85wn2sT6M5R7STRXHGL7q51bG3CZYW5XR5-N5YjEE/edit?usp=sharing)- Slides
-* [Teachable Machine 2.0](https://youtu.be/T2qQGqZxkD0?feature=shared)- Video
-* [Object Cards](https://docs.google.com/presentation/d/1vq99wxIkEBMhOt9h3QzDF35A6WWson3U3s7\_suZXoFQ/edit?usp=sharing) - Resources
+* [Empathizing with Users](https://docs.google.com/presentation/d/1HoRS5VKrUOX0uqgc7UBJn6uqZeSIrghF4lBmaEiGWL4/edit#slide=id.gca418c6afa\_0\_1070) - Slides
 
 For the students
 
-* [Teachable Machine 2.0](https://youtu.be/T2qQGqZxkD0?feature=shared)- Video
-* [Teachable Machine](http://teachablemachine.withgoogle.com) - Website
+* [Farmwise](https://youtu.be/xIvDGDZkbxM?si=wZ086lYdSQae-3Pm) - Video
+* [Design Thinking Process and Communities I Belong To](https://docs.google.com/document/d/1vGIomI3JyWBjk6UnYCbjeP4G5EYxj7cd0EGVPQ0wKj0/edit?usp=sharing) - Activity Guide
+* [Problem Observations → Research Questions](https://docs.google.com/document/d/1wt2kcoSVKQIgZ7fvC8TqA7VTWgi0r1jVQGxhmFZOFCA/edit?usp=sharing) - Activity Guide
 {% endtab %}
 
 {% tab title="Vocabulary" %}
-model - programs that detect specific patterns using a collection of data sets
+* Empathy - In design, paying attention to a user's feelings and needs when designing a product.
+* User - Someone who uses an object, including software and hardware.
 {% endtab %}
 {% endtabs %}
 
