@@ -1,5 +1,21 @@
 # Lesson 7
 
+## Overview (Teacher)
+
+**the question of the day**
+
+Summary of what is in this lesson (2-3 sentences). How does this fit into the big picture \[optional] (2-3 sentences)?
+
+## Overview (Students)
+
+A student-friendly version of the text above. Speak directly to the students.
+
+{% tabs %}
+{% tab title="Slides" %}
+(embed the slide deck for the lesson here)
+{% endtab %}
+{% endtabs %}
+
 🎙Remarks Yesterday we learned about the pixels and the information that they can contain. We are going to build upon our knowledge about pixels in order to envision how we might use filters to change the values stored within pixels in order to make the information more useful for computer vision applications.
 
 🖼️ Display & Read: The prompt for the brainstorming activity.

@@ -1,5 +1,21 @@
 # Lesson 6
 
+## Overview (Teacher)
+
+**the question of the day**
+
+Summary of what is in this lesson (2-3 sentences). How does this fit into the big picture \[optional] (2-3 sentences)?
+
+## Overview (Students)
+
+A student-friendly version of the text above. Speak directly to the students.
+
+{% tabs %}
+{% tab title="Slides" %}
+(embed the slide deck for the lesson here)
+{% endtab %}
+{% endtabs %}
+
 > 🎙️ **Say:** Today we are going to begin an in-depth study of some of the foundational technologies and ideas that go into creating some of the computer vision applications that we have examined in the case studies at the beginning of our previous lessons. The first concept that we need to understand is how computers actually “see” images. So today, we are going to take a look at the most basic units that make up images within a computer – whether on a monitor, in memory/storage, or through the lens of a digital camera.
 
 > 🎙️ **Say:** Let’s start by investigating the Super Color Cube. Navigate to Level 1 in this lesson and click the link that you see there in order to be brought to the cube. You can drag your mouse over top in order to spin the cube around. As you interact with it, I want you to consider a few guiding questions.

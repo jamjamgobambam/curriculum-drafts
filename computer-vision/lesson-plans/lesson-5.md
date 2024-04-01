@@ -1,4 +1,20 @@
-# lesson-5
+# Lesson 5
+
+## Overview (Teacher)
+
+**the question of the day**
+
+Summary of what is in this lesson (2-3 sentences). How does this fit into the big picture \[optional] (2-3 sentences)?
+
+## Overview (Students)
+
+A student-friendly version of the text above. Speak directly to the students.
+
+{% tabs %}
+{% tab title="Slides" %}
+(embed the slide deck for the lesson here)
+{% endtab %}
+{% endtabs %}
 
 ☑️ **Do This:** Instructions for the teacher to do
 
