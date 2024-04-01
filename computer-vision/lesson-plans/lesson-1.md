@@ -2,60 +2,53 @@
 
 ## Overview (Teacher)
 
-**How can datasets of images help a computer vision application to interpret what it sees?**
+**In what ways might computer vision be used in real-world applications to help solve problems and determine solutions?**
 
-In this lesson, students will move from learning how an image is extracted from an image to how computer vision systems are then able to take that information and process it. They will be introduced to the COCOs and ImageNet image datasets which are used to train computer vision applications. Students will experiment with sample models built from both datasets in order to learn about confidence scores and how they play an important role in determining the accuracy of a model.
+The main focus of this lesson is to give students a highly engaging, group-oriented activity to begin to construct their own working definition of what computer vision technology is and how it might be used. The students will be working in a group to solve the mystery of what happened to Pixel the cat. Using an interactive slideshow, they will navigate around a fictional city, following clues, employing computer vision techniques, and documenting their findings.
 
 ## Overview (Students)
 
-In this lesson, you will explore how computer vision applications learn to perceive the objects that are extracted from images through algorithms like edge detection. You will explore various image datasets which are used to train computer vision applications. Experimenting with sample models built from image datasets, you will learn about confidence scores and how they play an important role in determining the accuracy of what a computer vision system perceives.
+Today marks the beginning of our explorations with computer vision. We’re going to peel back the curtain and see how computers use images & video to “see” the world around them, turning pixels into patterns, and patterns into predictions. It’s a field of study that is ongoing, current, and with many applications now and in the near future that promise to change the way that society looks and function.
 
 
 
 {% tabs %}
 {% tab title="Slides" %}
-{% embed url="https://docs.google.com/presentation/d/1p3n3e1nxMxby7TVJeD4tvCUtIwr67lt3bH7kPH7Spag/edit#slide=id.g26b38d373c3_0_94" %}
+{% embed url="https://docs.google.com/presentation/d/1iRjA-LRoorYZdqIshLhOkoG-hlvcPEJScBZAz4ptjDE/edit?usp=sharing" %}
 {% endtab %}
 
 {% tab title="Standards" %}
-| CSTA: 3A-AP-16                   | Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>AI4K12 </p><p>3-C-i.9-12 </p> | Compare two real world datasets in terms of the features they comprise and how those features are encoded.                                                                |
-| AI4K12 3-A-iii.3-5               | Train a classification model using machine learning, and then examine the accuracy of the model on new inputs                                                             |
+| CSTA: 3B-AP-08 | Describe how artificial intelligence drives many software and physical systems |
+| -------------- | ------------------------------------------------------------------------------ |
 {% endtab %}
 
 {% tab title="Objectives" %}
 Students will be able to:
 
-* Evaluate the suitability and characteristics of different datasets
-* Explain the importance of using confidence ratings
-* Explore how databases of processed images might be used within your project designs
+* Construct a working definition of computer vision&#x20;
+* Describe several different applications of computer vision in modern use
+* Make inferences and draw conclusions from computer vision data
 {% endtab %}
 
 {% tab title="Preparation" %}
-* Print the Classifying and Grouping Images document ahead of time if you will be using the physical version. Students will need access to scissors to cut out the images.
-* Preview the MediaPipe models presented (Object Detection /&#x20;
-* Make sure that students are able to download / unzip the images for the main activity.
+* Print out “The Search for Pixel” Activity Guide for students if desired (the guide can also be completed digitally).
+* Print the [Clue Cards](https://docs.google.com/presentation/d/1Az7zQkK4F0fCbuI7y\_CBACC2hjnT3TMALBHQcHmsxH4/edit?usp=sharing). These are a shared resource and one copy should be sufficient. If you have a large class, you may print more than one set.
 {% endtab %}
 
 {% tab title="Links" %}
 For the teachers
 
-* [From Pixels to Perception](https://docs.google.com/presentation/d/1p3n3e1nxMxby7TVJeD4tvCUtIwr67lt3bH7kPH7Spag/edit#slide=id.g26b38d373c3\_0\_94)- Slides
-* [Classifying and Grouping Images](https://docs.google.com/presentation/d/1kpCbq5itHPSJILXZYqexTeeA4vYQjj\_fZ4L1YwJzLEA/edit#slide=id.p) - Physical Activity&#x20;
-* [garden\_images.zip](https://drive.google.com/file/d/1ScSCuXN75ltGUZzMKze1\_LTR5PMrM-Ax/view?usp=drive\_link) - Resource
+* [Lesson 1 Slide Deck](https://docs.google.com/presentation/d/1iRjA-LRoorYZdqIshLhOkoG-hlvcPEJScBZAz4ptjDE/edit?usp=sharing) - Slides
+* [How Computer Vision Works](https://youtu.be/2hXG8v8p0KM?feature=shared) - Video
+* [Clue Cards](https://docs.google.com/presentation/d/1Az7zQkK4F0fCbuI7y\_CBACC2hjnT3TMALBHQcHmsxH4/edit?usp=sharing) - Shared Resource
 
 For the students
 
-* [Classifying and Grouping Images](https://docs.google.com/presentation/d/1kpCbq5itHPSJILXZYqexTeeA4vYQjj\_fZ4L1YwJzLEA/edit#slide=id.p) - Physical Activity&#x20;
-* [Classifying and Grouping Images](https://docs.google.com/presentation/d/1n3dBJJI0T26X-56bSOBlL3hjvWTxbxYDYPUsj5Bdb-s/edit#slide=id.p) - Digital Activity
-* [garden\_images.zip](https://drive.google.com/file/d/1ScSCuXN75ltGUZzMKze1\_LTR5PMrM-Ax/view?usp=drive\_link) - Resource
-* Lotus Blossum Brainstorm ([Digital](https://docs.google.com/presentation/d/1PqPXAGgH6sgDSVK9B-Haj2aiprI3FOhag9M1ARfLtv8/edit?usp=sharing) / [Physical](https://drive.google.com/file/d/1gI4dvD77yQL2gr7SAvTIT81BJeN0O-WB/view))- Resource
+* [The Search for Pixel](https://docs.google.com/document/d/1jbpHZZn99xZ4zOjOZyqpC3qEbk04VHvyB-vb-sDOAxo/edit) - Activity Guide
 {% endtab %}
 
 {% tab title="Vocabulary" %}
-* Class - the output category of one’s data
-* Confidence score - A percentage that represents a measure of the confidence that a model has in its prediction
+* Computer Vision- A field of artificial intelligence (AI) that allows computers to interpret and understand visual inputs.
 {% endtab %}
 {% endtabs %}
 
