@@ -8,17 +8,53 @@ This lesson introduces students to the Design Thinking Process focusing on the E
 
 ## Overview (Students)
 
-A student-friendly version of the text above. Speak directly to the students.
+
+
+
 
 {% tabs %}
 {% tab title="Slides" %}
-(embed the slide deck for the lesson here)
+{% embed url="https://docs.google.com/presentation/d/1mk85wn2sT6M5R7STRXHGL7q51bG3CZYW5XR5-N5YjEE/edit?usp=sharing" %}
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Standards" %}
+| CSTA: 3A-AP-16            | Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions. |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CSTA: 3A-AP-13            | Create prototypes that use algorithms to solve computational problems by leveraging prior student knowledge and personal interests.                                        |
+| <p>AI4K12:<br>3-A-iii</p> | Training a model - Use either a supervised or unsupervised learning algorithm to train a model on real world data, then evaluate the results.                              |
+{% endtab %}
 
+{% tab title="Objectives" %}
+* Explore how visual data is used within a machine learning algorithm to train and create a model
+* Train, validate, and test basic AI classification systems in computer vision
+* Create and evaluate prototypes that solve problems using computer vision
+{% endtab %}
+
+{% tab title="Preparation" %}
+* Blank white paper will be needed for the warm-up. You can cut it into quarters in advance.
+* Students should have the items needed to train their model (webcam / images / video / microphone, etc.)
+* Verify that students have access to the [Teachable Machine website](http://teachablemachine.withgoogle.com) in order to train their models.
+{% endtab %}
+
+{% tab title="Links" %}
+For the teachers
+
+* [Model-Making Machine](https://docs.google.com/presentation/d/1mk85wn2sT6M5R7STRXHGL7q51bG3CZYW5XR5-N5YjEE/edit?usp=sharing)- Slides
+* [Teachable Machine 2.0](https://youtu.be/T2qQGqZxkD0?feature=shared)- Video
+* [Object Cards](https://docs.google.com/presentation/d/1vq99wxIkEBMhOt9h3QzDF35A6WWson3U3s7\_suZXoFQ/edit?usp=sharing) - Resources
+
+For the students
+
+* [Teachable Machine 2.0](https://youtu.be/T2qQGqZxkD0?feature=shared)- Video
+* [Teachable Machine](http://teachablemachine.withgoogle.com) - Website
+{% endtab %}
+
+{% tab title="Vocabulary" %}
+model - programs that detect specific patterns using a collection of data sets
 {% endtab %}
 {% endtabs %}
+
+🎙️&#x20;
 
 > 🎙️ **Say:** Yesterday we saw a range of applications for computer vision and discussed ways that this technology impacts us in our own lives. Over the next few lessons, we will look more closely at some specific examples of computer vision applications. We will also look at this applications from the different perspectives shown on the slide. Today, we will look at one of the companies mentioned in the video yesterday, Farmwise, which builds automated weeding technology. While we watch the video, there are some guiding questions to consider that lead up to the larger question of “Who benefits from using this technology?”
 
