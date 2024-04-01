@@ -1,6 +1,22 @@
 # Lesson 14
 
-> 🎙️ **Say:** We have reached the last step of the Design Thinking Process - Testing! You'll have the unique opportunity to see our computer vision project through someone else's eyes. By stepping into the roles of different users, you'll gain insights into how our designs can truly meet their needs and where we might need to pivot or improve.
+## Overview (Teacher)
+
+**the question of the day**
+
+Summary of what is in this lesson (2-3 sentences). How does this fit into the big picture \[optional] (2-3 sentences)?
+
+## Overview (Students)
+
+A student-friendly version of the text above. Speak directly to the students.
+
+{% tabs %}
+{% tab title="Slides" %}
+(embed the slide deck for the lesson here)
+{% endtab %}
+{% endtabs %}
+
+🎙️ **Say:** We have reached the last step of the Design Thinking Process - Testing! You'll have the unique opportunity to see our computer vision project through someone else's eyes. By stepping into the roles of different users, you'll gain insights into how our designs can truly meet their needs and where we might need to pivot or improve.
 
 ☑️ **Do This:** Distribute different user stories around the classroom.
 

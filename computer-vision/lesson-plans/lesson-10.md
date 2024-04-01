@@ -1,5 +1,21 @@
 # Lesson 10
 
+## Overview (Teacher)
+
+**the question of the day**
+
+Summary of what is in this lesson (2-3 sentences). How does this fit into the big picture \[optional] (2-3 sentences)?
+
+## Overview (Students)
+
+A student-friendly version of the text above. Speak directly to the students.
+
+{% tabs %}
+{% tab title="Slides" %}
+(embed the slide deck for the lesson here)
+{% endtab %}
+{% endtabs %}
+
 🎙️ Remarks: Before we start testing and training our models today, we’re first going to warm up our creative skills and give us a firsthand look at the challenges and considerations involved in training a computer vision model.
 
 🎙️ Remarks: Imagine you are trying to teach a friend to recognize something they’ve never seen before. But, there’s a catch - you can only use images! This is similar to how we can train machine learning models in computer vision.

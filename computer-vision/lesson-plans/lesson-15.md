@@ -1,6 +1,52 @@
 # Lesson 15
 
-> 🎙️ **Say:** Today, we'll explore how design thinking is inherently iterative, requiring us to adapt to user feedback. Let's warm up with a fun, rapid redesign activity
+## Overview (Teacher)
+
+**How can user feedback inform the iterative nature of the Design Thinking Process?**
+
+In this lesson, students delve into the crucial role of user feedback in the iterative design process, learning to evaluate, categorize, and prioritize feedback to refine their computer vision prototypes. Through hands-on activities like the Iteration Sprint, they practice incorporating real-world insights into their designs, fostering a deeper understanding of user-centered development. The lesson emphasizes collaboration, critical thinking, and the transformative power of constructive feedback in achieving design excellence.
+
+## Overview (Students)
+
+Today, you'll learn the power of user feedback in refining your designs. You’ll sort through your user feedback from last class and use it to improve your projects. Get ready to see how your ideas can grow and become even better with insights from real users!
+
+{% tabs %}
+{% tab title="Slides" %}
+[https://docs.google.com/presentation/d/1-XKe3W1\_-M6003kB3f2VQBz7UB1u2QvcgIXPpsnGovc/edit?usp=sharing](https://docs.google.com/presentation/d/1-XKe3W1\_-M6003kB3f2VQBz7UB1u2QvcgIXPpsnGovc/edit?usp=sharing)
+{% endtab %}
+
+{% tab title="Standards" %}
+| CSTA: 3A-AP-16:  | Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions. |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CSTA: 3A-IC-25:  | Test and refine computational artifacts to reduce bias and equity deficits.                                                                                                |
+| CSTA: 3B-IC-25:  | Evaluate computational artifacts to maximize their beneficial effects and minimize harmful effects on society.                                                             |
+| CSTA: 3B-AP-20:  | Use project planning techniques to manage work, as a team member and in the development of complex artifacts.                                                              |
+| CSTA: 3A-IC-24:  | Evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices.                                                                           |
+{% endtab %}
+
+{% tab title="Objectives" %}
+* Evaluate and prioritize user feedback
+* Iterate on a prototype based on user feedback
+{% endtab %}
+
+{% tab title="Preparation" %}
+* Gather enough of each type of object used in the Warm Up activity for each group of two to three students so that groups have an actual, physical object to work with for the activity.&#x20;
+* Arrange the classroom to facilitate group collaboration and discussion
+* If User Feedback Sheets were collected after the previous lesson’s Gallery Walk, decide on the most efficient way to return the feedback sheets to each group at the beginning of the lesson.
+* Create or arrange for materials needed for students to categorize feedback (e.g., sticky notes in various colors, digital platforms like Miro or Google Slides for virtual categorization, printed templates for feedback organization).
+* Ensure that necessary tools for prototype iteration are ready and accessible. This could involve software for digital prototypes or materials like paper, markers, and model-making supplies for physical prototypes.
+{% endtab %}
+
+{% tab title="Links" %}
+[Lesson 15](https://docs.google.com/presentation/d/1-XKe3W1\_-M6003kB3f2VQBz7UB1u2QvcgIXPpsnGovc/edit?usp=sharing) - Slides
+{% endtab %}
+
+{% tab title="Vocabulary" %}
+
+{% endtab %}
+{% endtabs %}
+
+🎙️ **Say:** Today, we'll explore how design thinking is inherently iterative, requiring us to adapt to user feedback. Let's warm up with a fun, rapid redesign activity
 
 ☑️ **Do This:** Divide students into groups of 2-3 and distribute one everyday object to each group.
 
