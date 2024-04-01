@@ -26,3 +26,4 @@
 
 * [Page 1](page-1.md)
 * [lesson-17](lesson-plans/lesson-17.md)
+* [lesson-18](lesson-plans/lesson-18.md)
