@@ -4,79 +4,54 @@
 
 **How might bias affect users who engage with computer vision applications?**
 
-Summary of what is in this lesson (2-3 sentences). How does this fit into the big picture \[optional] (2-3 sentences)?
+Students will engage with the concept of bias, first by hearing about and generating examples of it in the decision-making process. This concept will then be applied to the data on which computer vision models are trained. The importance of having a diversity and depth of data is emphasized. While working on the module project, students can share their project brainstorms and solicit feedback from their peers.
 
 ## Overview (Students)
 
-A student-friendly version of the text above. Speak directly to the students.
+Today you are going to examine and expience how bias might influence the decision-making process of a program using machine learning.. The importance of having a diversity and depth of data is emphasized. While working on the module project, you will share your project brainstorms with your peers and solicit feedback from them.
 
 
 
 {% tabs %}
 {% tab title="Slides" %}
-{% embed url="https://docs.google.com/presentation/d/1mk85wn2sT6M5R7STRXHGL7q51bG3CZYW5XR5-N5YjEE/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1WCPTEuqRy5oG7rVbA9ZfKj_0Iyla5POTSMhgcTg3GiA/edit?usp=sharing" %}
 {% endtab %}
 
 {% tab title="Standards" %}
-| CSTA: 3A-AP-16            | Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions. |
-| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CSTA: 3A-AP-13            | Create prototypes that use algorithms to solve computational problems by leveraging prior student knowledge and personal interests.                                        |
-| <p>AI4K12:<br>3-A-iii</p> | Training a model - Use either a supervised or unsupervised learning algorithm to train a model on real world data, then evaluate the results.                              |
+| AI4K12 (3-C-iii) | Investigate imbalances in training data in terms of gender, age, ethnicity, or other demographic variables that could result in a biased model, by using a data visualization tool. |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CSTA: 3A-IC-25   | Test and refine computational artifacts to reduce bias and equity deficits                                                                                                          |
 {% endtab %}
 
 {% tab title="Objectives" %}
-* Explore how visual data is used within a machine learning algorithm to train and create a model
-* Train, validate, and test basic AI classification systems in computer vision
-* Create and evaluate prototypes that solve problems using computer vision
+Students will be able to:
+
+* Identify potential bias in computer vision systems
+* Interpret how bias might best be mitigated
+* Evaluate the results of the Ideating phase of the Design Thinking Process
 {% endtab %}
 
 {% tab title="Preparation" %}
-* Blank white paper will be needed for the warm-up. You can cut it into quarters in advance.
-* Students should have the items needed to train their model (webcam / images / video / microphone, etc.)
-* Verify that students have access to the [Teachable Machine website](http://teachablemachine.withgoogle.com) in order to train their models.
+* Print out the Bingo cards for the lesson’s warm-up.
+* Double-check that students can access the MediaPipe website and download the dog images provided.
 {% endtab %}
 
 {% tab title="Links" %}
 For the teachers
 
-* [Model-Making Machine](https://docs.google.com/presentation/d/1mk85wn2sT6M5R7STRXHGL7q51bG3CZYW5XR5-N5YjEE/edit?usp=sharing)- Slides
-* [Teachable Machine 2.0](https://youtu.be/T2qQGqZxkD0?feature=shared)- Video
-* [Object Cards](https://docs.google.com/presentation/d/1vq99wxIkEBMhOt9h3QzDF35A6WWson3U3s7\_suZXoFQ/edit?usp=sharing) - Resources
+* [Blind Spots Exposed](https://docs.google.com/presentation/d/1WCPTEuqRy5oG7rVbA9ZfKj\_0Iyla5POTSMhgcTg3GiA/edit?usp=sharing)- Slides
+* [AI: Training Data & Bias](https://youtu.be/x2mRoFNm22g?feature=shared) - Video
+* [Bingo Cards](https://docs.google.com/document/d/1CVVcl57spqa4X1NZvio48RGahtt03Ic5BIV38t527Lo/edit?usp=sharing) - Key
 
 For the students
 
-* [Teachable Machine 2.0](https://youtu.be/T2qQGqZxkD0?feature=shared)- Video
-* [Teachable Machine](http://teachablemachine.withgoogle.com) - Website
+* [Dog Images](https://drive.google.com/file/d/1dnhvbfde7zKupHwz6LjTGTP\_OGbp3wPp/view) - Resource
 {% endtab %}
 
 {% tab title="Vocabulary" %}
-model - programs that detect specific patterns using a collection of data sets
+Bias - Decisions that favor some things and deprioritize or exclude others.
 {% endtab %}
 {% endtabs %}
-
-☑️ **Do This:** Instructions for the teacher to do
-
-💬 **Discuss:** discussion prompt
-
-💡 **Discussion Goal:** what the teacher should be listening for in the discussion
-
-💻 **Transition:** where students should be transitioning to
-
-✏️ **Vocabulary:** new term being introduced
-
-🎥 **Video:** Show the video "Video Title"
-
-🟡 Click the animation
-
-📄 **Distribute:** Give each student/pair of students a copy of the Activity Title activity guide.
-
-> 🎙️ **Say:** thing for the teacher to say
-
-🔁 **Circulate:** what the teacher should be looking out for while walking the classroom
-
-Teaching Tip: Title teaching tip content
-
-Assessment Opportunity: Formative Assessment assessment opportunity content
 
 > 🎙️ **Say:** To begin with today, we are going to play a little bingo game. But rather than the classic version with letters and numbers, you will be given a Bingo card with a variety of statements. Within a set time limit, your job is to circulate around the classroom, talk with your classmates, and find people who agree that one of the statements describes something that they might think or do.
 
