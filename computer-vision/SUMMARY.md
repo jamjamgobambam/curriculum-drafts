@@ -25,4 +25,3 @@
 ***
 
 * [Page 1](page-1.md)
-* [lesson-16](lesson-plans/lesson-16.md)

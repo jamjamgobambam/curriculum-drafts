@@ -2,120 +2,123 @@
 
 ## Overview (Teacher)
 
-**the question of the day**
+**How might we center our user’s needs when defining the core problem our application will address?**
 
-Summary of what is in this lesson (2-3 sentences). How does this fit into the big picture \[optional] (2-3 sentences)?
+In this lesson, students analyze the data visualizations they created in the last lesson to create user personas of potential users of their application. From those user personas, they dig deeper by repeatedly asking “Why?” to uncover a core issue statement. These issue statements are the final part of the Define stage of the Design Thinking Process, and groups are set up to brainstorm potential solutions in the following lessons.
 
 ## Overview (Students)
 
-A student-friendly version of the text above. Speak directly to the students.
+In this lesson, you will create fictional users based on the data visualizations you created from your user survey data. Next, you will uncover the issue at the core of the problem your group wants to solve.\
+
 
 {% tabs %}
 {% tab title="Slides" %}
-(embed the slide deck for the lesson here)
+{% embed url="https://docs.google.com/presentation/d/1E8x8qBqTNmqf7TDvvfGydxvVyHF67HkNZaMDTpi3vV4/edit?usp=sharing" %}
+{% endtab %}
+
+{% tab title="Standards" %}
+| CSTA: 3A-IC-24 | Evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices.                                                                           |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CSTA: 3A-AP-16 | Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions. |
+{% endtab %}
+
+{% tab title="Objectives" %}
+Students will be able to:
+
+* Analyze data visualizations to create user personas
+* Develop user personas into a core problem statement
+{% endtab %}
+
+{% tab title="Preparation" %}
+* Digitally share or print out User Persona Playing Cards and 5 Why’s Activity Guides.
+{% endtab %}
+
+{% tab title="Links" %}
+For the teachers
+
+* [Lesson 5](https://docs.google.com/presentation/d/1E8x8qBqTNmqf7TDvvfGydxvVyHF67HkNZaMDTpi3vV4/edit?usp=sharing) - Slides
+
+For the students
+
+* [Tesla Self-Driving vs Everyday Roads](https://youtu.be/9nF0K2nJ7N8?si=Z2W8BgvOAeljSQDu) - Video
+* [User Persona Playing Cards](https://docs.google.com/presentation/d/1SODncWXgsUgU4xgYvzBKvFq2hc4vg4r3d8N\_tLUByng/edit?usp=sharing) - Activity Guide
+* [5 Why’s](https://docs.google.com/presentation/d/1PkLFsBIA5HFv5KisUt5E26lzhdtvSPV179QQCE4dZls/edit?usp=sharing) - Activity Guide
+{% endtab %}
+
+{% tab title="Vocabulary" %}
+* User Personas - fictional characters you create based on your research to represent the different user types that might use your application.
+* Issue Statement - describes a larger pattern or issue you want to help solve.
 {% endtab %}
 {% endtabs %}
 
-☑️ **Do This:** Instructions for the teacher to do
+> 🎙️ **Say:** In order to consider who or what is affected by technology, let's start with a more widely known application of computer vision, self-driving cars. While looking at this application, we’ll focus on who or what is affected by this technology. We’ll push ourselves to think as broadly as possible, beyond the most directly affected people or things.
 
-💬 **Discuss:** discussion prompt
+🎥 **Video:** Show the first 2 minutes of the "Tesla Self Driving vs Everyday Roads" video
 
-💡 **Discussion Goal:** what the teacher should be listening for in the discussion
+Teaching Tip: Video as Prework The rest of this video has lots of similar moments to the ones shown in the first two minutes. If you think your students and the resulting class discussion about impacts would benefit from everyone seeing more of this journey, you may choose to have your students watch a longer chunk or the entire video before class.
 
-💻 **Transition:** where students should be transitioning to
+💬 **Discuss:** Who or what is affected by this technology?
 
-✏️ **Vocabulary:** new term being introduced
+💡 **Discussion Goal:** In just under two minutes of driving, this video shows lots of possible impacts of this technology on lots of different people and systems, such as the other drivers who are driving through the same intersections, any pedestrians trying to cross the roads, the driver himself, and less visible things like designers of roads and new intersections who might design these things differently knowing that self-driving cars would be using it. Push students to generate as large of a class list as possible. If students share answers where the connection to self-driving cars isn’t immediately apparent from the video, ask them to say more so that others can hear about the thinking that connects the two.
 
-🎥 **Video:** Show the video "Video Title"
+> 🎙️ **Say:** Today will be our last day working on the Defining stage. The goal for your work today is to walk away with a core issue that your group can focus your problem-solving skills on when you move to Ideating and beyond.
 
-🟡 Click the animation
+> 🎙️ **Say:** Let’s start by looking at an example problem a group might be working on related to school lunch. This group noticed an issue with how students were interacting and collected some data from students to better understand this issue.
 
-📄 **Distribute:** Give each student/pair of students a copy of the Activity Title activity guide.
+> 🎙️ **Say:** Here’s the data these students collected and visualized. Take a minute to look at the graph and consider these two questions: What do you notice? What do you wonder? For both of these questions, there are no right or wrong answers so let your ideas flow.
 
-> 🎙️ **Say:** thing for the teacher to say
+☑️ **Do This:** Give students some 30 secs to 1 minute to process the data and think through their responses to the questions before starting a class discussion.
 
-🔁 **Circulate:** what the teacher should be looking out for while walking the classroom
+💬 **Discuss:** What do you notice? What do you wonder?
 
-Teaching Tip: Title teaching tip content
+💡 **Discussion Goal:** The point of this discussion is to normalize throwing out lots of different ideas without judgement of right or wrong. Push students to elaborate and explain any noticings or wonders that arise. For example, if a student shares, “I noticed that not many students spent time talking with others during lunch,” you can push them to point to exactly what part of the graph made them notice that, towards something like “I noticed that only 29% of the students said they spend lunch talking with other people, which is less than half as many people who said they spend lunch on their phones”. Some other students may wonder why the percentages add up to more than 100% which might lead to questions about how the survey way designed.
 
-Assessment Opportunity: Formative Assessment assessment opportunity content
+> 🎙️ **Say:** Once we have examined our data, we can use that to help us create fictional characters called user personas that will help continue to make sure we are defining the problem from the perspective of our users.
 
-> 🎙️ **Say:** We have already created a sample model using Teachable Machine that might be used in our computer vision application, and today we will expand our prototypes to include other ways to show our users what our design might offer them.
+✏️ **Vocabulary:** A user persona is a fictional character that you create based on your research to represent a user type that might use your application. Designers usually develop multiple different user personas.
 
-☑️ **Do This:** Have students vote by showing the corresponding number of fingers (or any pre-existing system you might have in your classroom) for the choice they think is most compelling. Use this vote to ask one student for each answer to explain why they picked the one they did.
+> 🎙️ **Say:** We can use what we noticed from the graph to help us create user personas this helps us continue to stay grounded in the previous stage Empathizing with our users.
 
-💬 **Discuss:** The video describes three reasons for creating a prototype: Explore Inspire Converse Which one do you find most compelling?
+💻 **Transition:** Students should get together with their groups to work on going from Data Visualizations to User Personas
 
-💡 **Discussion Goal:** Get students to use their own words to describe and define these reasons from the video.
+📄 **Distribute:** Give each group of students a copy of the User Personas Playing Cards Activity Guide
 
-In the case that no students raise their hands for some of the choices here is how you can summarize those points: One, to explore what is possible– sometimes it is difficult to know what is possible without trying it; a prototype is a low stakes way of assessing possibilities. Two, to inspire your users– seeing is believing. Without putting some form of a product into a user’s hands, it might be difficult to convey the true depth of the experience. And third, to converse– to begin a dialogue about how the product can solve a key problem for users. The prototype can begin a conversation with users that will lead to further development and iteration, which often only makes the solution stronger in the end.
+☑️ **Do This:** Give students time to work on the tasks laid out on the slide
 
-☑️ **Do This:** Prompt students to write down their response to this question and give them 1 minute to do so before moving on to the next slide facilitate Give One, Get One.
+🔁 **Circulate:** Check to make sure students are framing things from the perspective of the user, starting with “As a…”
 
-☑️ **Do This:** Use the musical prompt to get students up and moving around the room. Remind students to continue to find new partners to share with until the music stops. Once students have returned to their seats, you can facilitate a whole class discussion.
+☑️ **Do This:** Go through the next three slides together, indicating that this is an example of how a group might progress from a user persona to a deeper issue by asking "Why?" over and over.
 
-💬 **Discuss:** How might failure in the prototyping stage actually be looked upon as a good thing?
-
-💡 **Discussion Goal:** Students will most likely bring up the lessons learned through failure as a positive. If none of the students bring it up, discuss with students that it can be a struggle to discard ideas. However, being willing to move on from a solution that doesn’t fit can actually be a freeing experience.
-
-> 🎙️ **Say:** Lesson Objectives
-
-> 🎙️ **Say:** Question of the Day
-
-> 🎙️ **Say:** Over the next two days, we are going to shift quickly into PBL Time so that you get the maximum time possible to add to your prototypes.
-
-💬 **Discuss:** In addition to your Teachable Machine model, what else can be added to your prototype?
-
-💡 **Discussion Goal:** This is an opportunity to allow students to dream big. However, the main goal of this discussion, in addition to hearing what other groups might be considering, is to try to constrain the scope of the prototype. Students will often propose something more grand in scope than is possible in the time that is given to them. Therefore, trying to keep a reasonable expectation of what is expected and possible over the next two class periods is a useful discussion to engage in.
-
-> 🎙️ **Say:** Here are some possibilities that you and your group might consider and which fit within the scope of the prototype. You might be unfamiliar with some of these ideas, but that doesn’t mean that you should count them out. A little quick research might show you that it might be the best solution to your prototyping needs.
-
-> 🎙️ **Say:** These are our three main goals over the next two class periods:
-
-You and your group will be deciding upon and creating additions to your computer vision prototype.
-
-You should also take the opportunity to use the rubric to assess the state of your project – are there places that lack detail? Where can your overall project be improved?
-
-You should also make make use of me in order to conference while you work. These conferences can take a couple of different forms– a feedback conference is when you ask for my thoughts on your prototype and the ideas that you are working through; an assessment conference is when we assess your project together.
-
-> 🎙️ **Say:** As you work, you may need a jolt of inspiration to find the perfect idea for how to improve your prototype. If that’s the case, feel free to come up and use one of our Inspiration Cards! They will give you one concrete item that you can add to your prototype.
-
-📄 **Distribute:** Make the Inspiration Cards available at the front of the room, or some similar location.
-
-Teaching Tip: Title Placing the cards face-down and allowing students to choose them adds a little mystery and randomness to the process, and may help to expose students to ideas / design choices that they might not have considered before. You might also consider making more than one set if you anticipate that there is going to be a lot of groups that need to be inspired from the get-go.
-
-> 🎙️ **Say:** As you work with your group, we will be using a series of non-verbal communication signals in order to communicate your group’s needs. You will be receiving a stack of different color cups, with each cup symbolizing a different status. The cup that is on the top of the stack – the one most visible – will be what determines your group’s status. Blue cup - All Good! Working well! Red cup - Stuck / Need help… Purple cup - Assessment conference request Yellow cup - Feedback conference request
-
-📄 **Distribute:** Give each group one stack of cups containing each of the four colors.
-
-Teaching Tip: Title There are two options that are presented in the slide deck. If you don’t have access to cups, there is an option to fold colored construction paper in order to accomplish the same signals. You can also modify this slide to create a different color-coding system that fits with materials that you may have on hand.
-
-Assessment Opportunity: Formative Assessment Over the course of the two work days, you should attempt to have an assessment conference with each group. These conferences should be quick and focused, and should ideally point out only one to two aspects of the project that the group can revise in order to make it stronger. The idea is to focus on what will give them the best return on their limited time.
-
-> 🎙️ **Say:** As you work with your group, we will be using a series of non-verbal communication signals in order to communicate your group’s needs. You will be receiving 4 different colors of construction paper, with each color symbolizing a different status. First, fold them into a tent shape and stack them together, The color that is on the top of the stack – the one most visible – will be what determines your group’s status. Blue - All Good! Working well! Red - Stuck / Need help… Purple - Assessment conference request Yellow - Feedback conference request
-
-📄 **Distribute:** Give each group four colors of construction paper.
-
-Teaching Tip: Title This is an alternate slide that you can use, depending on the materials that you have available.
-
-☑️ **Do This:** Students should navigate to Level 1 and answer the reflection question in the space available.
-
-Assessment Opportunity: Formative Assessment Reading through student responses before the start of the next class will be helpful to course correct any issues or misunderstandings, and to better address student needs on Day Two.
-
-> 🎙️ **Say:** Learning Objectives
-
-> 🎙️ **Say:** Question of the Day
-
-> 🎙️ **Say:** Key Vocabulary
-
-☑️ **Do This:** Direct students to discuss their experiences with the models they just created and tested. Students can refer to their CV Design Document to see some guiding questions that will help them evaluate their models.
-
-🎙️ Remarks: Your model will be the first component of a larger prototype that you will be designing and building out over the next few class sessions. From here, what you create and how you create it will be the decision of the group. As we build on to our prototypes, we will learn more about some of the options that are available to us, and the various forms that it might take. This Teachable Machine model is a great first step in prototyping!
-
-> 🎙️ **Say:** We will be moving from Ideating …
+🎙️ Say In order to get to larger issues, we sometimes need to ask “Why”. This is a strategy called the 5 Why’s. The goal is to keep asking why until we get to a core issue that might be causing this problem. Once we’ve discovered the core issue, we can try to create a computer vision application to help solve it
 
 🟡 Click the animation
 
-> 🎙️ **Say:** … to Prototyping today as we work with making models in Teachable Machine.
+> 🎙️ **Say:** Notice how this group continues to ask “Why” to help dig deeper
 
-As you ideated with your group members, you came up with lots of impressive ideas. Prototyping involves taking the most promising of these ideas and making something tangible with it. We will not be creating a whole product, rather we will be creating parts of it so that it can be tested with our users. Prototypes are intended to be quick representations of what our ideas can look like – they are not perfected final versions. The more ideas that we have and which we are able to incorporate into our prototype, the better data our testing will give at the end of the process.
+🟡 Click the animation until all the Whys show
+
+📄 **Distribute:** Give each group of students a copy of the 5 Whys activity guide.
+
+☑️ **Do This:** Give students time to fill out the the 5 Whys Activity Guide using the user personas they just created for their project.
+
+🔁 **Circulate:** As you notice students finishing up with the 5 Why’s, regroup so you can show them how to construct an issue statement.
+
+Assessment Opportunity: Formative Assessment The responses in the activity guide can be used to formatively assess how well students have met the objectives of the lesson.
+
+✏️ **Vocabulary:** A problem statement describes a larger pattern or issue you want to help solve.
+
+A problem statement is meant to help guide the design team to a reasonable solution.
+
+Teaching Tip: Problems Statements Problems Statements are related to Issue Statements, a component of Design Thinking, which is a larger framework for creatively addressing community issues. For more tips and background on Issue Statements, consider reading these articles here and here
+
+☑️ **Do This:** Use the “Tips for Writing an Issue Statement” slide to help set students up for the last part of the Activity Guide
+
+> 🎙️ **Say:** This group pulled out a theme from the answers to the Whys related to people feeling isolated and turned that into an issue statement. The core issue is something they can now focus on when they move to the Ideating phase next.
+
+☑️ **Do This:** Give students until the wrap up to work on creating problem statements.
+
+🔁 **Circulate:** If groups have finished going through the process of turning one user persona into a core issue, have them attempt the process again, starting with one of the other user personas they identified at the beginning of this activity.
+
+💬 **Discuss:** What issue statements did you come up with? How did you get to these statements from your user personas?
+
+💡 **Discussion Goal:** Get 2-3 different groups to share out to see how these statements can be framed differently.
