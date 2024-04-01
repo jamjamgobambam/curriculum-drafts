@@ -21,9 +21,9 @@
 * [Lesson 11](lesson-plans/lesson-11.md)
 * [Lesson 14](lesson-plans/lesson-14.md)
 * [Lesson 15](lesson-plans/lesson-15.md)
+* [lesson-17](lesson-plans/lesson-17.md)
+* [lesson-18](lesson-plans/lesson-18.md)
 
 ***
 
 * [Page 1](page-1.md)
-* [lesson-17](lesson-plans/lesson-17.md)
-* [lesson-18](lesson-plans/lesson-18.md)
