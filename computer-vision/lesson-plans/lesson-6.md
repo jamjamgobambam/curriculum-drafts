@@ -2,17 +2,59 @@
 
 ## Overview (Teacher)
 
-**the question of the day**
+**What kinds of information can we extract from images and for what purpose?**
 
-Summary of what is in this lesson (2-3 sentences). How does this fit into the big picture \[optional] (2-3 sentences)?
+In this lesson, students will learn what information can be stored in a pixel, how it is represented on a monitor, and how it might be interpreted by a computer vision application. This leads to an exploration of QR Codes, in which students will explore different decoding rules that help the QR Code scanners provide useful information. During their project development time, students will use their user personas & problem statements to begin brainstorming solutions for their community’s greatest need.
 
 ## Overview (Students)
 
-A student-friendly version of the text above. Speak directly to the students.
+In this lesson, you will begin by exploring that smallest part of all digital image – the pixel! You will explore what information can be encoded into pixels and how computer vision can make use of pixels to provide useful information in the form of QR Codes. Working with your project team, you will begin to brainstorm solutions for your community’s greatest need.\
+
 
 {% tabs %}
 {% tab title="Slides" %}
-(embed the slide deck for the lesson here)
+[https://docs.google.com/presentation/d/1o\_Hu17799s0qfpj65EQHCdtxjm1J3SoOc6PEkjVX01g/edit?usp=sharing](https://docs.google.com/presentation/d/1o\_Hu17799s0qfpj65EQHCdtxjm1J3SoOc6PEkjVX01g/edit?usp=sharing)
+{% endtab %}
+
+{% tab title="Standards" %}
+| CSTA: 3A-IC-24 | Evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices               |
+| -------------- | ------------------------------------------------------------------------------------------------------------- |
+| CSTA: 2-DA-08  | Collect data using computational tools and transform the data to make it more useful and/or reliable          |
+| CSTA: 3B-AP-20 | Use project planning techniques to manage work, as a team member and in the development of complex artifacts. |
+{% endtab %}
+
+{% tab title="Objectives" %}
+Students will be able to:
+
+* Explain the concept of a pixel and understand the information that it stores
+* Apply computer vision techniques to convert pixel data to useful information
+{% endtab %}
+
+{% tab title="Preparation" %}
+* Print and cut out the Sample QR Codes for the Investigate portion of the activity
+* Print or provide a digital copy of the QR Code Exploration Activity Guide
+* Print or provide a digital copy of the Lotus Blossom diagram
+{% endtab %}
+
+{% tab title="Links" %}
+For the teachers
+
+* [Lesson 6: Pixel Peeping](https://docs.google.com/presentation/d/1o\_Hu17799s0qfpj65EQHCdtxjm1J3SoOc6PEkjVX01g/edit?usp=sharing) - Slides
+* [Images, Pixels, and RGB](https://www.youtube.com/watch?v=15aqFQQVBWU\&t=43s) - Video
+* [QR Code Exploration Activity Guide](https://docs.google.com/document/d/16zvvB64PNT91-ugT2FiwL34Hpl1GNTmx3ilu7eM2B5I/edit?usp=sharing) - Key
+* [Sample QR Code Cards](https://docs.google.com/presentation/d/10gMppnWkFO-63FTiGQzvpR86TbLEV4aEgkiCCBRkRaY/edit?usp=sharing) - Resource
+
+For the students
+
+* [QR Code Exploration Activity Guide](https://docs.google.com/document/d/1l58ajc84QbV5DKNzBr79XoSy27wJQRqcf90PJdANu1w/edit?usp=sharing)- Activity Guide
+* [Binary to Base 10 Converter](https://www.rapidtables.com/convert/number/binary-to-decimal.html) - Resource
+* [Google Color Picker](https://g.co/kgs/Vgu2j2R) - Resource
+* [Lotus Blossom Diagram ](https://docs.google.com/presentation/d/1PqPXAGgH6sgDSVK9B-Haj2aiprI3FOhag9M1ARfLtv8/edit#slide=id.p)- Resource
+{% endtab %}
+
+{% tab title="Vocabulary" %}
+* pixel: one of the small dots or squares that make up an image on a computer screen.
+* RGB: Red, green, and blue values (0-255) used to construct 16,777,216 unique colors on a monitor.
 {% endtab %}
 {% endtabs %}
 

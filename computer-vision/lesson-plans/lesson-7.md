@@ -24,10 +24,9 @@ The PBL Focus of the Day is to continue the Ideate phase of the Design Thinking 
 {% endtab %}
 
 {% tab title="Standards" %}
-| CSTA: 3A-AP-16   | Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions. |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| AI4K12 (1-B-i)   | Sensing v. Perception - Explain perception algorithms and how they are used in real-world applications                                                                     |
-| AI4K12 (1-B-ii)  | Feature Extraction - Explain how features are extracted from waveforms and image                                                                                           |
+| CSTA: 2-DA-08  | Collect data using computational tools and transform the data to make it more useful and/or reliable          |
+| -------------- | ------------------------------------------------------------------------------------------------------------- |
+| CSTA: 3B-AP-20 | Use project planning techniques to manage work, as a team member and in the development of complex artifacts. |
 {% endtab %}
 
 {% tab title="Objectives" %}
