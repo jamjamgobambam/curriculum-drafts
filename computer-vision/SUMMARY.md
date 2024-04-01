@@ -18,10 +18,10 @@
 * [Lesson 8](lesson-plans/lesson-8.md)
 * [Lesson 9](lesson-plans/lesson-9.md)
 * [Lesson 10](lesson-plans/lesson-10.md)
+* [Lesson 11](lesson-plans/lesson-11.md)
 * [Lesson 14](lesson-plans/lesson-14.md)
 * [Lesson 15](lesson-plans/lesson-15.md)
 
 ***
 
 * [Page 1](page-1.md)
-* [lesson-11](lesson-plans/lesson-11.md)
