@@ -2,55 +2,60 @@
 
 ## Overview (Teacher)
 
-**How does the quality and quantity of training data impact the performance of computer vision models?**
+**How can datasets of images help a computer vision application to interpret what it sees?**
 
-Students will learn the basics of training a computer vision model– including gathering / creating data, training the model, and evaluating the results. They will be using Teachable Machine to create a model that will be the first addition to the project prototype that they will be creating over the next several class sessions.
+In this lesson, students will move from learning how an image is extracted from an image to how computer vision systems are then able to take that information and process it. They will be introduced to the COCOs and ImageNet image datasets which are used to train computer vision applications. Students will experiment with sample models built from both datasets in order to learn about confidence scores and how they play an important role in determining the accuracy of a model.
 
 ## Overview (Students)
 
-You will be learning the basics of training a computer vision model– including gathering / creating data, training the model, and evaluating the results. We will be using Teachable Machine to create a model which will become the first addition to the project prototype that you and your group will be creating over the next several class sessions.
+In this lesson, you will explore how computer vision applications learn to perceive the objects that are extracted from images through algorithms like edge detection. You will explore various image datasets which are used to train computer vision applications. Experimenting with sample models built from image datasets, you will learn about confidence scores and how they play an important role in determining the accuracy of what a computer vision system perceives.
 
 
 
 {% tabs %}
 {% tab title="Slides" %}
-{% embed url="https://docs.google.com/presentation/d/1mk85wn2sT6M5R7STRXHGL7q51bG3CZYW5XR5-N5YjEE/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1p3n3e1nxMxby7TVJeD4tvCUtIwr67lt3bH7kPH7Spag/edit#slide=id.g26b38d373c3_0_94" %}
 {% endtab %}
 
 {% tab title="Standards" %}
-| CSTA: 3A-AP-16            | Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions. |
-| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CSTA: 3A-AP-13            | Create prototypes that use algorithms to solve computational problems by leveraging prior student knowledge and personal interests.                                        |
-| <p>AI4K12:<br>3-A-iii</p> | Training a model - Use either a supervised or unsupervised learning algorithm to train a model on real world data, then evaluate the results.                              |
+| CSTA: 3A-AP-16                   | Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>AI4K12 </p><p>3-C-i.9-12 </p> | Compare two real world datasets in terms of the features they comprise and how those features are encoded.                                                                |
+| AI4K12 3-A-iii.3-5               | Train a classification model using machine learning, and then examine the accuracy of the model on new inputs                                                             |
 {% endtab %}
 
 {% tab title="Objectives" %}
-* Explore how visual data is used within a machine learning algorithm to train and create a model
-* Train, validate, and test basic AI classification systems in computer vision
-* Create and evaluate prototypes that solve problems using computer vision
+Students will be able to:
+
+* Evaluate the suitability and characteristics of different datasets
+* Explain the importance of using confidence ratings
+* Explore how databases of processed images might be used within your project designs
 {% endtab %}
 
 {% tab title="Preparation" %}
-* Blank white paper will be needed for the warm-up. You can cut it into quarters in advance.
-* Students should have the items needed to train their model (webcam / images / video / microphone, etc.)
-* Verify that students have access to the [Teachable Machine website](http://teachablemachine.withgoogle.com) in order to train their models.
+* Print the Classifying and Grouping Images document ahead of time if you will be using the physical version. Students will need access to scissors to cut out the images.
+* Preview the MediaPipe models presented (Object Detection /&#x20;
+* Make sure that students are able to download / unzip the images for the main activity.
 {% endtab %}
 
 {% tab title="Links" %}
 For the teachers
 
-* [Model-Making Machine](https://docs.google.com/presentation/d/1mk85wn2sT6M5R7STRXHGL7q51bG3CZYW5XR5-N5YjEE/edit?usp=sharing)- Slides
-* [Teachable Machine 2.0](https://youtu.be/T2qQGqZxkD0?feature=shared)- Video
-* [Object Cards](https://docs.google.com/presentation/d/1vq99wxIkEBMhOt9h3QzDF35A6WWson3U3s7\_suZXoFQ/edit?usp=sharing) - Resources
+* [From Pixels to Perception](https://docs.google.com/presentation/d/1p3n3e1nxMxby7TVJeD4tvCUtIwr67lt3bH7kPH7Spag/edit#slide=id.g26b38d373c3\_0\_94)- Slides
+* [Classifying and Grouping Images](https://docs.google.com/presentation/d/1kpCbq5itHPSJILXZYqexTeeA4vYQjj\_fZ4L1YwJzLEA/edit#slide=id.p) - Physical Activity&#x20;
+* [garden\_images.zip](https://drive.google.com/file/d/1ScSCuXN75ltGUZzMKze1\_LTR5PMrM-Ax/view?usp=drive\_link) - Resource
 
 For the students
 
-* [Teachable Machine 2.0](https://youtu.be/T2qQGqZxkD0?feature=shared)- Video
-* [Teachable Machine](http://teachablemachine.withgoogle.com) - Website
+* [Classifying and Grouping Images](https://docs.google.com/presentation/d/1kpCbq5itHPSJILXZYqexTeeA4vYQjj\_fZ4L1YwJzLEA/edit#slide=id.p) - Physical Activity&#x20;
+* [Classifying and Grouping Images](https://docs.google.com/presentation/d/1n3dBJJI0T26X-56bSOBlL3hjvWTxbxYDYPUsj5Bdb-s/edit#slide=id.p) - Digital Activity
+* [garden\_images.zip](https://drive.google.com/file/d/1ScSCuXN75ltGUZzMKze1\_LTR5PMrM-Ax/view?usp=drive\_link) - Resource
+* Lotus Blossum Brainstorm ([Digital](https://docs.google.com/presentation/d/1PqPXAGgH6sgDSVK9B-Haj2aiprI3FOhag9M1ARfLtv8/edit?usp=sharing) / [Physical](https://drive.google.com/file/d/1gI4dvD77yQL2gr7SAvTIT81BJeN0O-WB/view))- Resource
 {% endtab %}
 
 {% tab title="Vocabulary" %}
-model - programs that detect specific patterns using a collection of data sets
+* Class - the output category of one’s data
+* Confidence score - A percentage that represents a measure of the confidence that a model has in its prediction
 {% endtab %}
 {% endtabs %}
 
