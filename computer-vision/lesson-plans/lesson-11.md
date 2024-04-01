@@ -4,11 +4,11 @@
 
 **How do the benefits and challenges of computer vision technologies impact society, and what ethical considerations are essential for their development and use?**
 
-Needs Updating
+This lesson emphasizes the importance of ethical considerations and responsible innovation in tech development. Students critically explore the ethical dimensions of computer vision technologies, including biases, privacy, and security issues. The lesson culminates in student reflections on the societal impacts of their Computer Vision applications during the iterative design process.
 
 ## Overview (Students)
 
-Needs updating
+In this lesson, you'll dive into the ethical side of creating tech, looking closely at how computer vision can impact society and why thinking carefully about privacy and fairness matters. We'll wrap up by reflecting on how your own projects can make a positive difference as you keep improving them.
 
 
 
@@ -18,7 +18,10 @@ Needs updating
 {% endtab %}
 
 {% tab title="Standards" %}
-Needs Updating
+| CSTA: 3A-AP-16:  | Design and iteratively develop programs for practical intent, personal expression, or to address a societal issue. |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------ |
+| CSTA: 3A-IC-24:  | Evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices.                   |
+| CSTA: 3A-IC-25:  | <p>Test and refine computational artifacts to reduce bias and equity deficits.</p><p><br></p>                      |
 {% endtab %}
 
 {% tab title="Objectives" %}
@@ -27,20 +30,18 @@ Needs Updating
 {% endtab %}
 
 {% tab title="Preparation" %}
-* Needs updating
+* Prepare the computer vision technology information packets for the activity.
 {% endtab %}
 
 {% tab title="Links" %}
 For the teachers
 
-* [Model-Making Machine](https://docs.google.com/presentation/d/1mk85wn2sT6M5R7STRXHGL7q51bG3CZYW5XR5-N5YjEE/edit?usp=sharing)- Slides
-* [Teachable Machine 2.0](https://youtu.be/T2qQGqZxkD0?feature=shared)- Video
-* [Object Cards](https://docs.google.com/presentation/d/1vq99wxIkEBMhOt9h3QzDF35A6WWson3U3s7\_suZXoFQ/edit?usp=sharing) - Resources
+* [L11: Vision with Values](https://docs.google.com/presentation/d/1TiSRwwa9iRkvVS57FRllTwyGc4nYCnagauYiNeDUBHA/edit?usp=sharing) - Slides
+* [Ethics & AI](https://www.youtube.com/watch?v=zNxw5gJtHLc\&embeds\_referring\_euri=https%3A%2F%2Fdocs.google.com%2F\&embeds\_referring\_origin=https%3A%2F%2Fdocs.google.com\&source\_ve\_path=Mjg2NjY\&feature=emb\_logo) - Video
 
 For the students
 
-* [Teachable Machine 2.0](https://youtu.be/T2qQGqZxkD0?feature=shared)- Video
-* [Teachable Machine](http://teachablemachine.withgoogle.com) - Website
+* [Graphic Organizer](https://docs.google.com/presentation/d/1Oco1duNc39tZlFnq7M73FeCsVs6RHdkbCZWnHDhXUnw/edit?usp=sharing) - Activity Guide
 {% endtab %}
 
 {% tab title="Vocabulary" %}
