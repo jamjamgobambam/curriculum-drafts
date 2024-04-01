@@ -2,17 +2,64 @@
 
 ## Overview (Teacher)
 
-**the question of the day**
+**What happens to an image when we filter it?**
 
-Summary of what is in this lesson (2-3 sentences). How does this fit into the big picture \[optional] (2-3 sentences)?
+In this lesson, students will take an inquiry-based approach to creating the steps and processes necessary for creating an Edge Detection Filter. Students will embark on an unplugged activity that sees them craft their own unique algorithm to be able to isolate objects in images. They will then revise their algorithm to add in efficiencies in its processing, looking for ways to save precious time. They will learn that edge detection algorithms are used frequently in computer vision applications in order to isolate and identify objects.\
+
+
+The PBL Focus of the Day will see students continue the Ideate phase of the Design Thinking Process. Students will continue working with their Lotus Blossom brainstorming documents. They will be asked to think about how edge detection filters might be used in their proposed solutions.
+
+
 
 ## Overview (Students)
 
-A student-friendly version of the text above. Speak directly to the students.
+Today you will explore the steps and processes needed to create a particularly powerful computer vision image filter: Edge Detection. Working with a small group, you will craft your own unique algorithm to be able to isolate objects in images, seeking to make it as efficient as possible.
+
+The PBL Focus of the Day is to continue the Ideate phase of the Design Thinking Process. Keep working with your partner(s) on your Lotus Blossom brainstorming documents. How might edge detection filters be used in your proposed solutions?\
+
 
 {% tabs %}
 {% tab title="Slides" %}
-(embed the slide deck for the lesson here)
+{% embed url="https://docs.google.com/presentation/d/1VK2EooHd59-HYraAfa87i57qDo8Tz16WjKPr-OiRaIk/edit?usp=sharing" %}
+{% endtab %}
+
+{% tab title="Standards" %}
+| CSTA: 3A-AP-16   | Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions. |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AI4K12 (1-B-i)   | Sensing v. Perception - Explain perception algorithms and how they are used in real-world applications                                                                     |
+| AI4K12 (1-B-ii)  | Feature Extraction - Explain how features are extracted from waveforms and image                                                                                           |
+{% endtab %}
+
+{% tab title="Objectives" %}
+Students will be able to …&#x20;
+
+* Develop an image processing algorithm
+* Revise an algorithm to make it more efficient
+* Explore how image filters might be used in computer vision applications
+{% endtab %}
+
+{% tab title="Preparation" %}
+* There will be 8 total “Hint Cards” that need to be printed and cut out–  4 for each of the two sections of the day’s activity. There is only need to make one classroom set. These should be set up at the front of the classroom for students to use as needed.
+* Students should have access to their Lotus Blossom brainstorming document from the previous class
+{% endtab %}
+
+{% tab title="Links" %}
+For the teachers
+
+* [Living on the Edge](https://docs.google.com/presentation/d/1VK2EooHd59-HYraAfa87i57qDo8Tz16WjKPr-OiRaIk/edit?usp=sharing) - Slides
+* [Clue Cards](https://docs.google.com/document/d/17He6XFpnJPq5tkZDMR2d2xGGcz04j49eLon7RymkACc/edit?usp=sharing) - Resource
+
+For the students
+
+* [Lotus Blossom Brainstorming (digital)](https://docs.google.com/presentation/d/1PqPXAGgH6sgDSVK9B-Haj2aiprI3FOhag9M1ARfLtv8/edit?usp=drive\_link) - Activity Guide
+* [Lotus Blossom Brainstorming (printed)](https://drive.google.com/file/d/1gI4dvD77yQL2gr7SAvTIT81BJeN0O-WB/view?usp=drive\_link) - Activity Guide
+{% endtab %}
+
+{% tab title="Vocabulary" %}
+
+
+* edge detection: an algorithm that highlights changes in pixel values within an image.
+* sampling: the process of selecting specific pixels from an image to create a new version.
 {% endtab %}
 {% endtabs %}
 
