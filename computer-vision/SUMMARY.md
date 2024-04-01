@@ -23,3 +23,4 @@
 ***
 
 * [Page 1](page-1.md)
+* [lesson-8](lesson-plans/lesson-8.md)
