@@ -2,17 +2,54 @@
 
 ## Overview (Teacher)
 
-**the question of the day**
+**How can testing a design with users help to improve it?**
 
-Summary of what is in this lesson (2-3 sentences). How does this fit into the big picture \[optional] (2-3 sentences)?
+In this lesson, students will begin the Testing phase of the Design Thinking process, embarking on a deep dive into computer vision applications by assuming the roles of various users and offering them a nuanced perspective on technology's impact. Through a gallery walk, they will practice giving and receiving feedback on their prototypes, adopting different user personas to grasp a wide array of needs and viewpoints. The lesson will conclude with a reflection session, where students will analyze the initial feedback to identify themes or insights that either challenge or confirm their project assumptions, underscoring the importance of user-centered design and adaptability in the iterative development of technology solutions.
 
 ## Overview (Students)
 
-A student-friendly version of the text above. Speak directly to the students.
+In this lesson, we'll dive into the testing phase of our design thinking journey! You'll step into the shoes of different users to explore computer vision technologies and share your insights during a gallery walk. This will help us understand how our projects can better meet diverse needs and improve through user feedback.
 
 {% tabs %}
 {% tab title="Slides" %}
-(embed the slide deck for the lesson here)
+{% embed url="https://docs.google.com/presentation/d/1Ghe9hwiBMVdiZt2zDxePW26PXCxlfUZfJh4TH28gksU/edit?usp=drive_link" %}
+{% endtab %}
+
+{% tab title="Standards" %}
+| CSTA: 3A-AP-16:    | Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions. |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CSTA: 3A-IC-24:    | Evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices.                                                                           |
+| CSTA: 3A-IC-29:    | Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users.                                |
+| CSTA: 3A-IC-25:    | Test and refine computational artifacts to reduce bias and equity deficits.                                                                                                |
+| CSTA: 3B-IC-25:    | Evaluate computational artifacts to maximize their beneficial effects and minimize harmful effects on society.                                                             |
+| CSTA: 3B-AP-20:    | Use project planning techniques to manage work, as a team member and in the development of complex artifacts.                                                              |
+| AI4K12 (5-A-iii):  | Evaluate ways that AI system designers can learn about and incorporate the values of their stakeholders into the design process.                                           |
+{% endtab %}
+
+{% tab title="Objectives" %}
+* Give effective and actionable feedback from the viewpoint presented in a user story
+* Understand the importance of testing a design with prospective users
+{% endtab %}
+
+{% tab title="Preparation" %}
+* Arrange the classroom to accommodate the gallery walk, with space for each group project to be displayed and easily accessed by students. Ensure there's enough room for movement and interaction.
+* Print out the User Feedback sheets, double-sided and cut each handout in half. Plan on providing each group about 6-8 feedback sheets.
+{% endtab %}
+
+{% tab title="Links" %}
+For the teachers
+
+* [Lesson 14 Slides](https://docs.google.com/presentation/d/1Ghe9hwiBMVdiZt2zDxePW26PXCxlfUZfJh4TH28gksU/edit?usp=drive\_link) - Slides
+* [User Story Playing Cards](https://docs.google.com/presentation/d/1q5oOh4byyfV7-GlbG3kEOfOxPwCRg1F1RwtwvoObqR8/edit?usp=drive\_link) - Resource
+
+For the students
+
+* [Problem Statement & Solution](https://docs.google.com/document/d/14MuEalCda\_aCOWVI4oJbcBDjs-9UVQuR39T18GrstWQ/edit?usp=drive\_link) - Activity Guide
+* [User Feedback Sheets ](https://docs.google.com/document/d/18VUG-t4w2a2\_TBNaEk\_59OD0kKPXxr8mqtJTFKdZ6rA/edit?usp=drive\_link)- Activity
+{% endtab %}
+
+{% tab title="Vocabulary" %}
+
 {% endtab %}
 {% endtabs %}
 

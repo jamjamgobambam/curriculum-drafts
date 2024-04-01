@@ -12,7 +12,7 @@ Today, you'll learn the power of user feedback in refining your designs. You’l
 
 {% tabs %}
 {% tab title="Slides" %}
-[https://docs.google.com/presentation/d/1-XKe3W1\_-M6003kB3f2VQBz7UB1u2QvcgIXPpsnGovc/edit?usp=sharing](https://docs.google.com/presentation/d/1-XKe3W1\_-M6003kB3f2VQBz7UB1u2QvcgIXPpsnGovc/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1-XKe3W1_-M6003kB3f2VQBz7UB1u2QvcgIXPpsnGovc/edit?usp=sharing" %}
 {% endtab %}
 
 {% tab title="Standards" %}
