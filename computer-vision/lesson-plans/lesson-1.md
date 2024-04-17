@@ -9,191 +9,101 @@
 Warm Up (10 mins)
 
 
-> 🎙️ **Say:** In the previous lesson, we saw a range of computer vision techniques and use cases. Over the next few lessons, we'll look more closely at some specific examples of computer vision applications. Today, we'll look at one of the companies mentioned in the video we saw before – Farmwise – which builds automated weeding technology.
+> 🎙️ **Say:** Today marks the beginning of our explorations with computer vision. We’re going to peel back the curtain and see how computers use images & video to “see” the world around them, turning pixels into patterns, and patterns into predictions. It’s a field of study that is ongoing, current, and with many applications now and in the near future that promise to change the way that society looks and functions.
 
-🎥 **Video:** Watch the video about Farmwise together as a class, and have students think about the following guiding questions:
-What specific problem does this technology help solve?
-How does this technology incorporate computer vision?
-Who benefits from this technology?
-
-
-
-💬 **Discuss:** What could be an unintended negative consequence of this technology?
-
-💡 **Discussion Goal:** Use this discussion to get students to see that there are multiple sides to most things. Some topics that students might bring up or that you could prompt students to think about:
-Loss of jobs for farm workers
-Lack of access to this technology for smaller farms, making it harder for them to compete
-Data security when it comes to farming techniques such as placement of or spacing between plants
-
-Teaching Tip
-Move on from the discussion after 5 minutes. It’s okay if these case studies bring up more questions than answers! If you find your class generating a lot of questions, you could consider capturing these in a Parking Lot or on a KWL Chart.
-
-> 🎙️ **Say:** We will continue to look at more case studies throughout the next few lessons. For the rest of today, let’s take a look at a process that teams use to develop applications such as the one we just looked at.
+💬 **Discuss:** How might we create an algorithm so that a computer can see the difference between “X” and “O”?
+**Discussion Goal:** A simple algorithm that students might come up with is to test whether the corners are filled in; if so, then it must be an X. They might also suggest to test to see if the lines present cross each other. Encourage students to come up with as many rules / steps as they are able to in the amount of time given. Teaching Tip
+Consider having students talk to a shoulder partner for a minute or two to discuss and work out an algorithm before beginning a whole class discussion. 
 
 
 
+💬 **Discuss:** Does your algorithm work for the examples of an “X” seen here? Why or why not?
+
+💡 **Discussion Goal:** No matter how detailed the algorithm was that students created previously, it is highly likely that it didn’t account for some variation of the ‘X’ seen here. And even if it did, it was also likely that there could be an ‘X’ drawn that did not account for the algorithm. Traditional algorithmic thinking has specific conditions to check for, but even in an example as small as this 9x9 grid, we can see that it is difficult, if not impossible, to account for all of the variations. It is important to point out that one of the main goals of computer vision technologies is to be able to train computers to recognize an “X”-- in addition to other objects– in new and novel implementations..  
+
+> 🎙️ **Say:** Throughout this module we will be learning how computer scientists are developing sophisticated computer vision algorithms utilizing AI and data. By training these models with loads of data, the computer itself begins to write and tweak its own algorithms to help it decode and understand what an “X” might be. Even if it sees a version that it has never seen before, if the training was thorough enough, it should be able to recognize the letter. That is one of the goals of computer vision: to train computers to see and interpret the world around them just like we are able to do as human beings.
 
 
 
+> 🎙️ **Say:** Let’s take a look at an introductory video that details the basics of what computer vision is, how it differs from traditional programming / algorithm development, and what some uses might be. 
 
+🎥 **Video:** How AI Works: Computer Vision (2:24 to 3:46)
 
+💬 **Discuss:** When teaching a computer to “see”, how does machine learning differ from traditional programming?
 
-Activity (25 mins)
-
-
-☑️ **Do This:** Introduce the Design Thinking Process. 
-
-> 🎙️ **Say:** The Design Thinking Process involves five steps that teams use to understand users, challenge assumptions, redefine problems and create innovative solutions to prototype and test. This process and the stages involved are things you’ve all done at different points in your life. As we go through this one-by-one, think about times when you’ve done something similar and write those down on your activity guide.
+💡 **Discussion Goal:** With traditional programming, we often hard-code in certain assumptions and conditions– like it might be an X shape if the center pixel filled in. However, that doesn’t account for situations where the X shape is askew or transformed across the canvas. Machine learning allows a computer to use data to develop an algorithm for itself. The more data that the computer has, the more accurate the guess that it can make becomes. Machine learning finds patterns by learning from its mistakes.
 
 Teaching Tip
-Design Thinking is a larger framework for creatively addressing community issues that we’ve adapted here. For more tips and background on Design Thinking, consider reading these articles here and here
+The introduction of the speakers in this video have been truncated for the sake of pacing; however, if you would like students to know who these speakers are, consider showing them from 0:00 - 1:14 of the video.
 
 
 
-> 🎙️ **Say:** These steps work together in a cycle, without a specific start, end, or direction.
+🎥 **Video:** How AI Works: Computer Vision (4:16 to 6:25)
 
+💬 **Discuss:** What does a computer have to do to recognize complex shapes?
 
-> 🎙️ **Say:** Today, we'll focus on empathizing. This involves putting ourselves into the shoes of our users…
-
-
-> 🎙️ **Say:** Here’s an example of how a group of designers might empathize with their users involving the company we saw in the warm up video, Farmwise: 
-
-☑️ **Do This:** Ask a student to read the quote out loud to the rest of the class.
-
-Source: https://www.michiganbusiness.org/reports-data/success-stories/farmwise/ 
-
-
-💬 **Discuss:** What do you think the FarmWise employees learned from interviewing farmers about the difficulties they faced?
-
-💡 **Discussion Goal:** You’ll return to some possible examples for this later in the lesson, so for this discussion, try to encourage as wide a range of possibilities as possible instead of going into depth on any one idea.
-
-
-
-
-📄 **Distribute:** Give each student a copy of the Communities I Belong To activity guide.
-
-
-> 🎙️ **Say:** Next, we are going to start the process of being designers ourselves. To start the process, we need to figure out who we are designing for, which involves finding a community with a need. To help with this, we are all going to brainstorm a list of communities that we belong to in our Unit Guides. Here is an example of how this brainstorm might look:
-
-🟡 Click the animation
-
-> 🎙️ **Say:** These can be general communities related to characteristics such as age…
-
-🟡 Click the animation
-
-> 🎙️ **Say:** Interests…
-
-🟡 Click the animation
-
-> 🎙️ **Say:** Location…
-
-🟡 Click the animation
-
-> 🎙️ **Say:** Pets…
-
-🟡 Click the animation
-
-> 🎙️ **Say:** Or any number of other characteristics. A community can be however you define it, so feel free to include any community you belong to.
-
-
-
-☑️ **Do This:** Give students a few minutes to complete the Communities I Belong To activity guide.
+💡 **Discussion Goal:**  A computer often begins by looking at the edges within an image, and then to break down what is left into smaller, simpler patterns. An eye, in the example given, can have its edges highlighted to reveal that it contains two arcs with two concentric circles inside. By training a machine learning model using lots of data, the computer can keep increasing its accuracy with its guesses until it learns how to “see” correctly.
 
 
 
 
 
-☑️ **Do This:** Direct students to participate in a Give One, Get One. Use the musical cue on the slides to facilitate the timing of students walking around the room to share responses with each other.
 
 
 
-> 🎙️ **Say:** Next, we are going to practice turning observations about problems facing a community into questions that will allow us to gather more information about our users’ needs. For this, let’s return to the example of FarmWise employees volunteering on farms and interviewing farmers.
 
-We already discussed some things that the FarmWise employees might have learned from their interviews. Let’s break down the process of gathering that information a little bit more, starting with some observations that the designers might have made while volunteering as a part of the farming community: 
-Lack of access to enough water
-Trouble finding enough workers to hire
-Challenges minimizing the loss of crops due to pests and disease. 
+Activity (30 mins)
 
-These problems and the needs associated with them might be obvious to members of the community, but as designers, our job is to find out more about what our users need instead of making assumptions. To do this, we need to dig a bit deeper by talking with users, just like the FarmWise employees interviewed farmers.
 
-Turning these observations into research questions will help you as a designer gather more data about your users and help you more clearly define the problem you are trying to solve.
+Group: Place students in pairs or small groups of three.
 
-Here is an example of a question that the employees at FarmWise might have asked to learn more about the issue of water scarcity. Can you think of questions they might ask about labor shortages or pest and disease management?
-
-🟡 Click the animation
-
-☑️ **Do This:** Give students a minute to process and brainstorm possible questions before asking a few students to share possible questions.
+📄 **Distribute:** Give each student a copy of The Search for Pixel activity guide.
 
 Teaching Tip
-You may choose to use examples from the class discussion earlier in place of the ones provided on the slide if you think those are issues that your class will better understand and resonate with.
+The Search for Pixel activity is an interactive mystery game in which students will use a clickable slideshow that will navigate them to various locations around a fictional town. The goals of the activity are to:
+Learn about and experience various computer vision techniques
+Use those techniques to find out what happened to Pixel
+
+The game is divided into 6 rounds – each should take about 5 minutes to complete. We recommend modeling the first round to demonstrate how to interact with the slideshow.
 
 
 
-> 🎙️ **Say:** Nice job coming up with questions of your own! Here are other examples of questions that might have been helpful. Notice that most of them are framed in an open-ended way, asking the user to describe experiences they’ve had.
+> 🎙️ **Say:** In order to learn a bit more about computer vision, you are all going to assume the roles of digital detectives today. Pixel the cat has gone missing! You will visit different locations around the city, searching for information about what happened to the cat, and aided by use of computer vision techniques to reveal these clues.
 
 
-
-> 🎙️ **Say:** Soon, we will get into groups to work on developing research questions. Before we do, we will establish roles for when we collaborate. For today, you will work in groups of 3, with each person playing a different role. 
-
-🟡 Click the animation
-
-> 🎙️ **Say:** One person will be the timekeeper. This person is in charge of making sure the group stays on time with each chunk of work. 
-
-🟡 Click the animation
-
-> 🎙️ **Say:** One person will be the scribe. This person is in charge of recording key points from discussions and documenting the group’s work. 
-
-🟡 Click the animation
-
-> 🎙️ **Say:** One person will be the Task Manager. This person is in charge of making sure the group understands the task at hand and keeps the group on task throughout the work. 
-
-Having specific roles in a group helps us work together smoothly, just like in real jobs where everyone has a special role to make big projects succeed. Think of working in a group like being on a movie set: everyone has a specific job to do. Just like a director guides a movie and a sound engineer captures the best audio, each role helps us tackle tasks more effectively, improving our collaboration skills.
-
-
-
-Group: Place students into groups of 3.
-
-📄 **Distribute:** Give each group a copy of Problem Observations → Research Questions activity guide.
-
-
-☑️ **Do This:** Direct students to complete the Problem Observations → Research Question activity guide.
-
-🔁 **Circulate:** As groups work together, walk around the room to observe and listen to how students are doing with group roles, noting anything you’d like to bring up as during the wrap up.
-
-
-
-Wrap Up (10 mins)
-
-
-☑️ **Do This:**  Direct students to move to a part of the room where they can gather with all of the other people who played the same role as them.
-
-
-
-☑️ **Do This:** Direct groups to discuss the two prompts. Have each group share out their one piece of advice to the whole class and add in any of your own observations that you think are worth including.
+💻 **Transition:** Direct students to Level 1 to complete The Search for Pixel activity.
 
 Teaching Tip
-The share outs from this wrap-up could make for the start of a useful classroom anchor chart on group roles and advice for people using those roles.
+It might be helpful to assign roles in the group. In a group of three, those roles might look as follows:
+Driver - Responsible for clicking and navigating the group; 
+Narrator - Reads important directions and clues that pop up on the screen
+Scribe - Takes notes about what the team has discovered on the activity guide.
+
+Set up the clue cards at the front of the room. There are two cards for each round (a total of 12 cards). Clue 1 for each round hints at the solution, while Clue 2 walks through how to solve the round. You might suggest that students send up a representative to read what is on the card, rather than taking the card back to their work stations. This way, you only need to print one community set of cards for everyone to use. The cards should be printed double-sided, if possible, so that they can be laid face down and the students know which one to flip over.
 
 
 
-🖼️ Display: Lesson Objectives
+Wrap Up (5 mins)
 
 
 
-🖼️ Display: Question of the Day
 
 
 
-💻 **Transition:** Direct student to Lesson 2, Levels 1 and 2 to complete the reflection questions.
-Describe a community you belong to and a potential problem within that community that you discussed with your group.
-What was one research question you wrote down to learn more about the users' needs and why would that be important to learn about?
 
-💡 Reflection Goal:  
-This question aims to assess students' ability to connect their personal experiences with the broader scope of computer vision applications, encouraging them to think critically about how technology can serve diverse needs.
-The goal here is to evaluate students' understanding of how to translate observations about a community's challenges into open-ended questions that can effectively guide user research and data gathering.
+
+💻 **Transition:** Direct student to Level 2 to complete the reflection question. 
+What is your definition of computer vision?
+
+💡 Reflection Goal: Allows students to share what they have constructed as their working definition of computer vision thus far. This definition is sure to evolve and grow as the module progresses. Some possible examples for a working definition might include:
+Computer vision is like when your computer tries to figure out what's in a picture, kind of like how we recognize our friends' faces or stuff in photos
+Computer vision helps computers 'see' and understand the images and videos like we do, but through cameras and algorithms
+It's like teaching a computer to see and interpret the world around it, so it can recognize objects, people, and even actions
+It's a part of artificial intelligence where computers are trained to interpret and understand the visual world
 
 Assessment Opportunity: Formative Assessment
-The responses in the levels can be used to formatively assess how well students have met the objectives of the lesson.
+It might prove to be an interesting experience to revisit these student responses to this question at the end of the module to see what has changed and why.
+
 
 
 
