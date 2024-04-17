@@ -74,6 +74,6 @@ Set up the clue cards at the front of the room. There are two cards for each rou
 {% hint style="success" %}
 **Assessment Opportunity**
 
-Formative Assessment It might prove to be an interesting experience to revisit these student responses to this question at the end of the module to see what has changed and why.
+It might prove to be an interesting experience to revisit these student responses to this question at the end of the module to see what has changed and why.
 {% endhint %}
 
